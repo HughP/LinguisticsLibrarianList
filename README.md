@@ -1,5 +1,14 @@
 # Linguistics Librarian List
-This is an Awesome list for resources for Lingusitics Libarians and Language Archivists. Please organize additions by section first and then alphabetical, within section. 
+This is an _Awesome List_ for resources for Lingusitics Libarians and Language Archivists.
+
+###Purpose
+This list exist as a resource from linguists to Linguistics Libarians to help them find things relevant to us. **But** it is also a list for archivists of language materials to be able to connect with archivists who deal with collections in similar mediums.
+
+_What is a resource?_ Not a language resource. Resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc.
+
+###Additions
+Please organize additions by section first and then alphabetical, within section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. _Got questions?_ create an issue.
+
 
 ##Resources for audio curation and digitization
 [ARSClist](http://www.arsc-audio.org/arsclist.html) - Association for Recorded Sound Collections
