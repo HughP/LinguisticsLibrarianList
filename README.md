@@ -11,16 +11,16 @@ Please organize additions by section first and then alphabetical, within section
 
 
 ##Resources for audio curation and digitization
-[ARSClist](http://www.arsc-audio.org/arsclist.html) - Association for Recorded Sound Collections
+* [ARSClist](http://www.arsc-audio.org/arsclist.html) - Association for Recorded Sound Collections
 
 ##Resources for video curation and digitization
 
-[IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
-[IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
+* [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
+* [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 
 
 ##Resources for finding resources
-[OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
+* [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
 
