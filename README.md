@@ -7,7 +7,7 @@ This list exist as a resource from linguists to Linguistics Libarians to help th
 _What is a resource?_ Not a language resource. Resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc.
 
 ###Additions
-Please organize additions by section first and then alphabetical, within section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. _Got questions?_ create an issue.
+Please organize additions by section first and then alphabetical, within section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
 
 
 ##Resources for audio curation and digitization
@@ -29,4 +29,4 @@ Please organize additions by section first and then alphabetical, within section
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work is Copyright 2015 by Hugh Paterson III and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
