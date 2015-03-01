@@ -21,6 +21,7 @@ Please organize additions by section first and then alphabetical, within section
 
 ##Resources for finding resources
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
+* [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
 
