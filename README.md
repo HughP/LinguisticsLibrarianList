@@ -16,7 +16,7 @@ Please organize additions by section first and then alphabetical, within section
 ##Resources for video curation and digitization
 
 [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
-
+[IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 
 
 ##Resources for finding resources
