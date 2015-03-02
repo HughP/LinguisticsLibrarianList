@@ -2,7 +2,7 @@
 This is an _Awesome List_ for resources for Lingusitics Libarians and Language Archivists.
 
 ###Purpose
-There is no association for linguistic librarians. This list exist as a resource from linguists to Linguistics Libarians to help them find things relevant to us. **But** it is also a list for archivists of language materials to be able to connect with archivists who deal with collections in similar mediums.
+There is no association for linguistic librarians. This list exist as a resource from linguists to Linguistics Libarians to help facilitate better communication. **But** it is also a list for archivists of language materials to be able to connect with archivists who deal with collections in similar mediums.
 
 _What is a resource?_ Not a language resource. Resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc.
 
