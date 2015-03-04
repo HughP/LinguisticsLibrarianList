@@ -19,9 +19,9 @@ Please organize additions by section first and then alphabetical, within section
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 
 ##Resources for educational materials (such as curriculem) for minority languages
-###Descriptive metadata
+####Descriptive metadata
 * [LRMI](http://www.lrmi.net/) - Learning Resource Metadata Initiative - is a learning materials metadata spesification which is part of [schema.org](http://schema.org/) and [under the stewartship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
-* Curriculem catalogues
+####Curriculem catalogues
 * [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
 * [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1)
