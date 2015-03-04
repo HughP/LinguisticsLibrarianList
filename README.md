@@ -1,13 +1,13 @@
 # Linguistics Librarian List
 This is an _Awesome List_ for resources for Lingusitics Libarians and Language Archivists.
 
-###Purpose
+####Purpose
 There is no association for linguistic librarians, and no open association for archivists who focus on language materials. This list exist as a resource from _linguists_ to _linguistics libarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists who deal with collections in similar mediums.
 
-_What is a resource?_ Not a language resource. Resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc.
+_What is a resource?_ Not a language resource (like a grammar or a description of a specific language). This list avoids these specific kinds of resources. Rather for the purposes of this list, resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc. Which Linguistics Librarians and Archivists focused on language materials will find helpful in the course of thier work.
 
-###Additions
-Please organize additions by section first and then alphabetical, within section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
+####Additions
+Please organize additions by section first and then alphabetical, within a section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
 
 
 ##Resources for audio curation and digitization
@@ -27,6 +27,15 @@ Please organize additions by section first and then alphabetical, within section
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
 * [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1)
 
+##Resources for digital archiving - Software Tools
+####Digital Repositories
+* [DSpace](http://www.dspace.org/)
+* Fedora
+* [Islandora](http://islandora.ca/)
+* Druapl
+
+####Embeding Metadata
+
 ##Resources for finding resources
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
@@ -37,16 +46,20 @@ Please organize additions by section first and then alphabetical, within section
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources
 * Brill
 * John Benjamins
-* SIL International
+* [SIL International](http://www.sil.org/resources/publications/about)
 * Mouton DeGreuter
 * Oxford University Press
 * Cambridge University Press
+* [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
+* [Routledge](http://www.routledge.com/)
+* [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 
 
 
 
 ## License
-
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+####Contributors
+* Hugh Paterson III
