@@ -26,6 +26,8 @@ Please organize additions by section first and then alphabetical, within section
 ##Resources for finding resources
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
+* [Linguistic Biblography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
+* [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in Proquest.
 
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
