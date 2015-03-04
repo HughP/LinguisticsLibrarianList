@@ -11,7 +11,7 @@ Please organize additions by section first and then alphabetical, within section
 
 
 ##Resources for audio curation and digitization
-* [ARSClist](http://www.arsc-audio.org/arsclist.html) - Association for Recorded Sound Collections
+* [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the library of congress.
 
 ##Resources for video curation and digitization
 
@@ -27,7 +27,7 @@ Please organize additions by section first and then alphabetical, within section
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 * [Linguistic Biblography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
-* [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in Proquest.
+* [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
