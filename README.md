@@ -33,8 +33,19 @@ Please organize additions by section first and then alphabetical, within a secti
 * Fedora
 * [Islandora](http://islandora.ca/)
 * Druapl
+* EPrints
+
+####Digital Showcases or Display enviroments
+* [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digtial museum displays and dealing with catalogue data.
+* [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
+* [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
+* [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when conpared with the datatypes, and ease of usability that Drupal offers).
+####Submission Managers
+* RAMP - created as a client side submission manager for submissions to DSpace.
+* SayMore - Organizes content durrent collection and creates a submission package
 
 ####Embeding Metadata
+_Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
 
 ##Resources for finding resources
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
