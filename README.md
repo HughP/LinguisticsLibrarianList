@@ -30,7 +30,7 @@ Please organize additions by section first and then alphabetical, within section
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 
 
-##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
+##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources
 * Brill
 * John Benjamins
 * SIL International
