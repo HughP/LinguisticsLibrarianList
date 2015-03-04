@@ -40,6 +40,7 @@ Please organize additions by section first and then alphabetical, within a secti
 * [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when conpared with the datatypes, and ease of usability that Drupal offers).
+
 ####Submission Managers
 * RAMP - created as a client side submission manager for submissions to DSpace.
 * SayMore - Organizes content durrent collection and creates a submission package
