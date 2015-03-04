@@ -2,7 +2,7 @@
 This is an _Awesome List_ for resources for Lingusitics Libarians and Language Archivists.
 
 ###Purpose
-There is no association for linguistic librarians. This list exist as a resource from linguists to Linguistics Libarians to help facilitate better communication. **But** it is also a list for archivists of language materials to be able to connect with archivists who deal with collections in similar mediums.
+There is no association for linguistic librarians, and no open association for archivists who focus on language materials. This list exist as a resource from _linguists_ to _linguistics libarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists who deal with collections in similar mediums.
 
 _What is a resource?_ Not a language resource. Resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occuring confrences, etc.
 
@@ -31,6 +31,14 @@ Please organize additions by section first and then alphabetical, within section
 
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources.
+* Brill
+* John Benjamins
+* SIL International
+* Mouton DeGreuter
+* Oxford University Press
+* Cambridge University Press
+
+
 
 
 ## License
