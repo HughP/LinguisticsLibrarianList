@@ -1,3 +1,6 @@
+#AES Citations
+_The following list inlcudes citations which are relevant to the processes of digitization and digital audio production, specifically looking at audio in linguistic research contexts._
+
 * Audio Engineering Society, Inc. 2011. AES information document for digital audio - Personal computer audio quality measurements. AES-6id-2006 (r2011). 
 * Audio Engineering Society, Inc. 1997. AES recommended practice for audio preservation and restoration — Storage and handling — Storage of polyester-base magnetic tape. AES22-1997 (r2008). 
 * Audio Engineering Society, Inc. 2009. AES recommended practice for digital audio engineering - Synchronization of digital audio equipment in studio operations. AES11-2009 (Rev. AES11-2003). 
