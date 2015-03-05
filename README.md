@@ -98,7 +98,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 ####Institutional repositories and special collections
 
 
-##Publishers of academic resources about linguistics, anthropology, language documentation and minority language resources
+##Publishers of academic resources about linguistics, anthropology, language documentation, [ethnobotany](http://en.wikipedia.org/wiki/Ethnobotany), [ethnomusicology](http://en.wikipedia.org/wiki/Ethnomusicology), ethno-arts, and minority language resources
 * Acta Universitatis Upsaliensis
 * Brill
 * Cambridge University Press
