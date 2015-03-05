@@ -32,13 +32,15 @@ Please organize additions by section first and then alphabetical, within a secti
 ##Resources for linguistic cartography and maps
 
 ####Projects and products
-* llmap.org - LinguistList project which was disrupted in the transition.
-* Ethnologue Maps
-* GMI
+* [LinguistList Maps](http://llmap.org/) - _llmap.org_ was and is a LinguistList project for displaying existing maps in a large variety of publications as layers in a geobrowser. This project like many others was disrupted in the LinguistList transition from Michigan to hosting the LinguistList in Indiana. Contact the current hosts for further details.
+* [Ethnologue Maps](http://www.ethnologue.com/browse/maps) - Maps may be purchased from the Ethnologue, some may be visible online. Link to an index of maps.
+* [World Language Mapping System](http://www.worldgeodatasets.com/language/) - _World Language Mapping System_ Is a collaborative data publication between SIL International and [GMI (Global Mapping International)](http://www.gmi.org/). Most of the shape files from the Ethnologue's maps are included. They are usually updated following the most recent update of the Ethnologue.
+* [World Language Phyla/Family Mapping](http://www.worldgeodatasets.com/language/huffman/?pathinfo=products/gis/wlms/sample-maps/huffman/) - A set of global maps using GMI products but with language family arrangement by Dr. Stephen Huffman.
+* [Langscape](http://ling.umd.edu/~colin/wordpress/?page_id=110) - A project for geobrowsing language data from the University of Maryland. It uses the GMI product as it's base layer as of 2014.
 
 ####Journals
 * Dialectologia et Geolinguistica
-* International Journal of Geographical Information Science
+* International Journal of Geographical Information Science (sometimes has articals about people group and language mapping)
 
 
 ##Resources for educational materials (such as curriculum) for minority languages
