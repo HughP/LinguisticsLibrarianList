@@ -20,7 +20,7 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ##Resources for educational materials (such as curriculem) for minority languages
 ####Descriptive metadata
-* [LRMI](http://www.lrmi.net/) - Learning Resource Metadata Initiative - is a learning materials metadata spesification which is part of [schema.org](http://schema.org/) and [under the stewartship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
+* [LRMI](http://www.lrmi.net/) - _Learning Resource Metadata Initiative_ is a learning materials metadata spesification which is part of [schema.org](http://schema.org/) and [under the stewartship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
 
 ####Curriculem catalogues
 * [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
@@ -49,23 +49,41 @@ Please organize additions by section first and then alphabetical, within a secti
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
 
 ##Resources for finding resources
+_These resources are sometimes only agragators, but other times may also be full content. These resources are usually not digital repositories._
+####Agragators and services
 * [OLAC](http://search.language-archives.org/index.html) - An agragation of resource from a variety of archives.
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 * [Linguistic Biblography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
+
+####Special purpose repositories
+[ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Agragated in OLAC**
+
+####Institutional repostories and special collections
 
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources
 * Brill
 * John Benjamins
 * [SIL International](http://www.sil.org/resources/publications/about)
-* Mouton DeGreuter
+* Mouton De Gruyter
 * Oxford University Press
 * Cambridge University Press
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
+* Acta Universitatis Upsaliensis
+* Dr. Ludwig Reichert Verlag
+* Sage Publishing
 
+##Major Content delivery networks
+_These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products._
+HathiTrust: http://catalog.hathitrust.org/Record/004279552
+JSTOR
+Project Muse
+[EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
+[ELSEVIER](http://www.elsevier.com/)
+OCLC http://www.oclc.org/en-US/partners-for-libraries.html
 
 
 
