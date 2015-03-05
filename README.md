@@ -12,7 +12,7 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ##Resources for audio curation and digitization
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the USA library of congress. Audio professionals of various kinds are on this list, including professional digitizers, professionals working in the recording industry, and archivists and audio collection curators for radio broadcasters.
-* [The Audio Archive](http://www.theaudioarchive.com/) - A busienss for professional audio digitization
+* [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "goden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful maunuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
 
 ##Resources for video curation and digitization
@@ -71,6 +71,7 @@ _These resources are sometimes only agragators, but other times may also be full
 
 ####Special purpose repositories
 [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Agragated in OLAC**
+[The speech accent archive](http://accent.gmu.edu/) - The speech accent archive uniformly presents a large set of speech samples from a variety of language backgrounds. Native and non-native speakers of English read the same paragraph and are carefully transcribed. The archive is used by people who wish to compare and analyze the accents of different English speakers. **Not Agragated in OLAC**
 
 ####Institutional repostories and special collections
 
