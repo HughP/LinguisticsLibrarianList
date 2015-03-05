@@ -12,9 +12,10 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ##Resources for audio curation and digitization
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the USA library of congress. Audio professionals of various kinds are on this list, including professional digitizers, professionals working in the recording industry, and archivists and audio collection curators for radio broadcasters.
-* [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
-* [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
 * [Audio Engineering Society](http://www.aes.org/) - This society provides scientific documentation for digital audio, in addition to several relevant specifications for digitizing audio and maintaining metadata. [Citations are maintained in a separate list](/AESCitations.md).
+* [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
+* [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
+
 
 ##Resources for video curation and digitization
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
@@ -27,10 +28,10 @@ Please organize additions by section first and then alphabetical, within a secti
 * [LRMI](http://www.lrmi.net/) - _Learning Resource Metadata Initiative_ is a learning materials metadata specification which is part of [schema.org](http://schema.org/) and [under the stewardship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
 
 ####Curriculum catalogues
-* [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
-* [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1) - This is a project which hosts language materials created with the purpose of teaching languages indigenous to North America
+* [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
 * [Live Lingua Project](http://www.livelingua.com/peace-corps-language-courses.php) - The Peace Corp Language Learning Materials Archive
+* [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1) - This is a project which hosts language materials created with the purpose of teaching languages indigenous to North America
 
 
 ##Resources for digital archiving - Software Tools
