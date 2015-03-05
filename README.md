@@ -14,9 +14,10 @@ Please organize additions by section first and then alphabetical, within a secti
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the library of congress.
 
 ##Resources for video curation and digitization
-
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
+
+##Resources for still image curation and digitization
 
 ##Resources for educational materials (such as curriculem) for minority languages
 ####Descriptive metadata
@@ -25,15 +26,24 @@ Please organize additions by section first and then alphabetical, within a secti
 ####Curriculem catalogues
 * [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
-* [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1)
+* [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1) - This is a project which hosts language materials created with the purpose of teaching languages indigenous to North America
+* [Live Lingua Project](http://www.livelingua.com/peace-corps-language-courses.php) - The Peace Corp Language Learning Materials Archive
+
 
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
+* EPrints
 * [DSpace](http://www.dspace.org/)
 * Fedora
-* [Islandora](http://islandora.ca/)
-* Druapl
-* EPrints
+* [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content managment, and Drupal for custom content presentations.
+* [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
+
+####Current Journaling Systems
+_There are currently no known journal managment systems which have an indexing function which allows for the OLAC metadata to be recorded per article submission._ - Some further investigation is needed to determin if these CMS options create MARC records or if other kinds of indexing is still needed.
+* [OJS](https://pkp.sfu.ca/ojs/) - Open Journal System
+* [BePress](http://www.bepress.com/)
+* De Gruyter moved in 2013 to a new backbone press application for all of its journals.
+* Cambridge Journals appears to also be a custom content managment system.
 
 ####Digital showcases or display enviroments
 * [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digtial museum displays and dealing with catalogue data.
@@ -78,12 +88,12 @@ _These resources are sometimes only agragators, but other times may also be full
 
 ##Major Content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products._
-HathiTrust: http://catalog.hathitrust.org/Record/004279552
-JSTOR
-Project Muse
-[EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
-[ELSEVIER](http://www.elsevier.com/)
-OCLC http://www.oclc.org/en-US/partners-for-libraries.html
+* HathiTrust: http://catalog.hathitrust.org/Record/004279552
+* JSTOR
+* Project Muse
+* [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
+* [ELSEVIER](http://www.elsevier.com/)
+* OCLC http://www.oclc.org/en-US/partners-for-libraries.html
 
 
 
