@@ -74,18 +74,18 @@ _These resources are sometimes only agragators, but other times may also be full
 
 
 ##Publishers of academic resoruces about linguistics, anthropology, language documentation and minortiy language resources
+* Acta Universitatis Upsaliensis
 * Brill
+* Cambridge University Press
+* Dr. Ludwig Reichert Verlag
 * John Benjamins
-* [SIL International](http://www.sil.org/resources/publications/about)
 * Mouton De Gruyter
 * Oxford University Press
-* Cambridge University Press
-* [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
-* Acta Universitatis Upsaliensis
-* Dr. Ludwig Reichert Verlag
 * Sage Publishing
+* [SIL International](http://www.sil.org/resources/publications/about)
+* [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 
 ##Major Content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products._
