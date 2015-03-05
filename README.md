@@ -38,12 +38,13 @@ Please organize additions by section first and then alphabetical, within a secti
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content managment, and Drupal for custom content presentations.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 
-####Current Journaling Systems
+####Journal Mananagment Systems
 _There are currently no known journal managment systems which have an indexing function which allows for the OLAC metadata to be recorded per article submission._ - Some further investigation is needed to determin if these CMS options create MARC records or if other kinds of indexing is still needed.
 * [OJS](https://pkp.sfu.ca/ojs/) - Open Journal System
 * [BePress](http://www.bepress.com/)
 * De Gruyter moved in 2013 to a new backbone press application for all of its journals.
 * Cambridge Journals appears to also be a custom content managment system.
+* Some journals like _[Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)_ use WordPress. It is imagined that some journals also might try and use Drupal.
 
 ####Digital showcases or display enviroments
 * [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digtial museum displays and dealing with catalogue data.
