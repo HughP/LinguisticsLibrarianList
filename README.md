@@ -29,6 +29,18 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ##Resources for still image curation and digitization
 
+##Resources for linguistic cartography and maps
+
+####Projects and products
+* llmap.org - LinguistList project which was disrupted in the transition.
+* Ethnologue Maps
+* GMI
+
+####Journals
+* Dialectologia et Geolinguistica
+* International Journal of Geographical Information Science
+
+
 ##Resources for educational materials (such as curriculum) for minority languages
 ####Descriptive metadata
 * [LRMI](http://www.lrmi.net/) - _Learning Resource Metadata Initiative_ is a learning materials metadata specification which is part of [schema.org](http://schema.org/) and [under the stewardship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
