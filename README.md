@@ -1,5 +1,5 @@
 # Linguistics Librarian List
-This is an _Awesome List_ for resources for Linguistics Librarians and Language Archivists.
+This is an _Awesome List_ for resources for Linguistics Librarians and Archivists dealing with _Language Artifacts_.
 
 ####Purpose
 There is no association for linguistic librarians, and no open association for archivists who focus on language materials. This list exists as a resource from _linguists_ to _linguistics librarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists of other kinds of materials who deal with collections in similar mediums.
