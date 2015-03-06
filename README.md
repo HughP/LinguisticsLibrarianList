@@ -111,6 +111,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * Acta Universitatis Upsaliensis
 * Brill
 * Cambridge University Press
+* [Cascadilla Proceedings Project](http://lingref.com/) - This is a publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
 * John Benjamins
 * Mouton De Gruyter
@@ -119,6 +120,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 * Sage Publishing
 * [SIL International](http://www.sil.org/resources/publications/about)
+* [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - This press publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 
 ##Major content delivery networks
