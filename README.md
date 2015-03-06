@@ -2,7 +2,7 @@
 This is an _Awesome List_ for resources for Linguistics Librarians and Language Archivists.
 
 ####Purpose
-There is no association for linguistic librarians, and no open association for archivists who focus on language materials. This list exist as a resource from _linguists_ to _linguistics librarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists who deal with collections in similar mediums.
+There is no association for linguistic librarians, and no open association for archivists who focus on language materials. This list exists as a resource from _linguists_ to _linguistics librarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists of other kinds of materials who deal with collections in similar mediums.
 
 _What is a resource?_ Not a language resource (like a grammar or a description of a specific language). This list avoids these specific kinds of resources. Rather for the purposes of this list, resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occurring conferences, metadata specifications, file management tools,  etc. Which _linguistics librarians_ and _archivists focused on language materials_ will find helpful in the course of their work. In a way this list is designed for people in one academic decipline to be able to find out what is "normal" or "best practice" in another academic discipline.
 
@@ -125,6 +125,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * Cambridge University Press
 * [Cascadilla Proceedings Project](http://lingref.com/) - This is a publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
+* [ELSEVIER](http://www.elsevier.com/)
 * John Benjamins
 * Mouton De Gruyter
 * Oxford University Press
@@ -158,6 +159,7 @@ _These networks often are in the business of granting a variety of access types 
 ##Metadata standards and schemas
 * [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
 * [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
+* [ISO 639-3](http://www-01.sil.org/iso639-3/default.asp) - Metadata for languages.
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
