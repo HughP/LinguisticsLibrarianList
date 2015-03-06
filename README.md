@@ -98,11 +98,11 @@ _There are currently no known journal management systems which have an indexing 
 
 ####File Managment
 _Tools for working with files._
-[Fixity](http://www.avpreserve.com/tools/fixity/) - Open source utility for the documentation and regular review of stored files. Runs on Windows and OS X. Produced by AP
+* [Fixity](http://www.avpreserve.com/tools/fixity/) - Open source utility for the documentation and regular review of stored files. Runs on Windows and OS X. Produced by AVPreserve.
 
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
-[BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X. 
+* [BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X. 
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
