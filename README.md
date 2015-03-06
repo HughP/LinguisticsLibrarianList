@@ -18,7 +18,7 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
-* [FADGI Embeding Guidelines]()
+* [FADGI Embeding Guidelines]() - Federal Agencies Digitization Guidelines Initiative http://www.digitizationguidelines.gov/guidelines/digitize-technical.html
 
 ####Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
@@ -28,8 +28,10 @@ Please organize additions by section first and then alphabetical, within a secti
 ##Resources for video curation and digitization
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
+* [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
 
 ##Resources for still image curation and digitization
+* [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handeling.
 
 ##Resources for linguistic cartography and maps
 
