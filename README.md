@@ -18,7 +18,7 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
-* [FADGI Embeding Guidelines]() - Federal Agencies Digitization Guidelines Initiative http://www.digitizationguidelines.gov/guidelines/digitize-technical.html
+* [FADGI Embeding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recomendations about embeded metadata.
 
 ####Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
@@ -141,4 +141,3 @@ _These networks often are in the business of granting a variety of access types 
 This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 ####Contributors
 * Hugh Paterson III
-* 
