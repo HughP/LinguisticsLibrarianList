@@ -155,6 +155,9 @@ _These networks often are in the business of granting a variety of access types 
 * [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
 
+##Metadata standards and schemas
+* [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
+* [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
