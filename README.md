@@ -18,9 +18,11 @@ Please organize additions by section first and then alphabetical, within a secti
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
+* [FADGI Embeding Guidelines]()
 
 ####Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
+* [AVPreserve](http://www.avpreserve.com/) - AVPreserve is a media and information management consulting firm. We partner with organizations that create or collect media content to help develop and implement resources that allow them to better manage, use, distribute, and preserve their media assets and metadata. They also produce a variety of open source tools.
 
 
 ##Resources for video curation and digitization
@@ -80,8 +82,13 @@ _There are currently no known journal management systems which have an indexing 
 * RAMP - created as a client side submission manager for submissions to DSpace.
 * SayMore - Organizes content durrent collection and creates a submission package
 
+####File Managment
+_Tools for working with files._
+[Fixity](http://www.avpreserve.com/tools/fixity/) - Open source utility for the documentation and regular review of stored files. Runs on Windows and OS X. Produced by AP
+
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
+[BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X. 
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
@@ -121,11 +128,15 @@ _These networks often are in the business of granting a variety of access types 
 * [ELSEVIER](http://www.elsevier.com/)
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
 
+##Organizations of interests in the archiving and preservation sphere
+*  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
+*  [JISC](http://www.jisc.ac.uk/) - (Formerly the Joint Information Systems Committee.) A registered UK charity which champions the use of digital technologies in UK education and research. They have an active role in preservation and metadata developments. [See more on Wikipedia](http://en.wikipedia.org/wiki/Jisc).
 
 
 ## License
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 ####Contributors
 * Hugh Paterson III
+* 
