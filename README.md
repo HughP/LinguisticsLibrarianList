@@ -121,7 +121,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [SIL International](http://www.sil.org/resources/publications/about)
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 
-##Major Content delivery networks
+##Major content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products._
 * HathiTrust: http://catalog.hathitrust.org/Record/004279552
 * JSTOR
