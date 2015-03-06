@@ -26,12 +26,24 @@ Please organize additions by section first and then alphabetical, within a secti
 
 
 ##Resources for video curation and digitization
+
+####Networks
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
+
+####Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
 
+####Services
+
 ##Resources for still image curation and digitization
+
+####Networks
+
+####Best practices
 * [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handeling.
+
+####Services
 
 ##Resources for linguistic cartography and maps
 
