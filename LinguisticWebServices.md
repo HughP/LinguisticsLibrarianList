@@ -5,7 +5,7 @@ _This list specifically focusus on web services for interacting with linguistic 
 _If you know of something, but wonder if it really fits, open an issue and lets look at it._
 
 ##Services
-* [LingSync](https://www.lingsync.org/) - Service Provider: _McGill University and Concordia University_ - A tool for creating and maintaining a sShared database... _"of what?"_
+* [LingSync](https://www.lingsync.org/) - Service Provider: _McGill University and Concordia University_ - A tool for creating and maintaining a Shared database... _"of what?"_ (seems mostly like phrases)
 * [Webonary](http://www.webonary.org/) - Service Provider: _SIL International_ - a place to easily "publish" and browse a lexicon produced via FLEx.
 * [LanguageDepot](http://public.languagedepot.org/) - Service Provider: _SIL International_ - a sync service for use with FLEx and WeSay products. It allows multible people to access the same lexicon data.
 * [LanguageForge](https://languageforge.org/) - Service Provider: _SIL International_ - a browser based lexicon builder, useable by multible users. **Currently in Beta.**
