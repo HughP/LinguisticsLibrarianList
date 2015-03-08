@@ -12,7 +12,7 @@ Sections are marked with ## and contain a variety of sub-sections as they occur 
 * **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
 * **Networks**: _Groups of people including professionals, which can be a resource as a community._
 * **Policies**: _Any public facing business description of business practices._
-* **Services**: _A buiness function retuning and intangable result. See Wikipedia: http://en.wikipedia.org/wiki/Service_(economics) _
+* **Services**: _A buiness function retuning and intangable result. See [Wikipedia](http://en.wikipedia.org/wiki/Service_(economics))_
 * **Projects**: _Specific endevors which may be colaborative or undertaken by a single institution._  
 * **Products**: _Specific things created and are usally sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
 * **Descriptive metadata**: _Metadata schemas which describe resources._
