@@ -8,7 +8,16 @@ _What is a resource?_ Not a language resource (like a grammar or a description o
 
 ####Additions
 Please organize additions by section first and then alphabetical, within a section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
-
+Sections are marked with ## and contain a variety of sub-sections as they occur (not every section will have all sub-sections). Some of these sub-sections include:
+* **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
+* **Networks**: _Groups of people including professionals, which can be a resource as a community._
+* **Policies**: _Any public facing business description of business practices._
+* **Services**: _A buiness function retuning and intangable result. See Wikipedia: http://en.wikipedia.org/wiki/Service_(economics)_
+* **Projects**: _Specific endevors which may be colaborative or undertaken by a single institution._  
+* **Products**: _Specific things created and are usally sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
+* **Descriptive metadata**: _Metadata schemas which describe resources._
+* **Catalogues**:
+* **Aggregators and services**:
 
 ##Resources for audio curation and digitization
 
