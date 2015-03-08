@@ -8,7 +8,8 @@ _What is a resource?_ Not a language resource (like a grammar or a description o
 
 ####Additions
 Please organize additions by section first and then alphabetical, within a section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
-Sections are marked with ## and contain a variety of sub-sections as they occur (not every section will have all sub-sections). Some of these sub-sections include:
+
+Sections are marked with ## and contain a variety of sub-sections (marked with ####) as sub-sections are needed for clarity (not every section will have all sub-sections). Some of these sub-sections include:
 * **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
 * **Networks**: _Groups of people including professionals, which can be a resource as a community._
 * **Policies**: _Any public facing business description of business practices._
