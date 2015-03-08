@@ -4,6 +4,9 @@ _Add new entries in alphabetical order._
 ##Best practices
 _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
 
+##Networks
+_Groups of people including professionals, which can be a resource as a community._
+
 ##Policies
 _Any public facing business description of business practices._
 
