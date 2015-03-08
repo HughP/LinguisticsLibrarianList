@@ -4,7 +4,7 @@ _This list specifically focusus on web services for interacting with linguistic 
 ###Additions
 _If you know of something, but wonder if it really fits, open an issue and lets look at it._
 
-##Services
+##Services with linguistic data
 * [LingSync](https://www.lingsync.org/) - Service Provider: _McGill University and Concordia University_ - A tool for creating and maintaining a Shared database... _"of what?"_ (seems mostly like phrases)
 * [Webonary](http://www.webonary.org/) - Service Provider: _SIL International_ - a place to easily "publish" and browse a lexicon produced via FLEx.
 * [LanguageDepot](http://public.languagedepot.org/) - Service Provider: _SIL International_ - a sync service for use with FLEx and WeSay products. It allows multible people to access the same lexicon data.
@@ -12,6 +12,8 @@ _If you know of something, but wonder if it really fits, open an issue and lets 
 * [TypeCraft](http://typecraft.org/tc2wiki/Main_Page) - Service Provider: _Norwegian University of Science and Technology, LingLab_ - A MediaWiki based service allowing annotation and multi language glossing of texts.
 * PELDA (unknown URL; provider contacted) - Service Provider: _University of Washington Bothell and University of Montana_ - attempts to do phoneme extraction and trascritpion from audio corpora. **Currently in Beta.**
 
+##Services with meta-language data
+* [LL-MAP](http://www.llmap.org) - Service Provider: _LinguistList_ - A tool for looking at the geographical dispersion of language users. Users can provide their own data as well as look at geo-aligned previously claimed data in the form of published maps. **Service is currently not fuctional.**
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
