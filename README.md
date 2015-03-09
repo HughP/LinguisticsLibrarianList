@@ -124,6 +124,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 * [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
+* Blackwell's Linguistics Abstracts Online
 
 ####Special purpose repositories
 * [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Aggregated in OLAC**
@@ -149,15 +150,27 @@ _These publishers have significant portions of their businesses which focus on a
 * [SIL International](http://www.sil.org/resources/publications/about)
 * [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - This press publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
+* [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
+* Pacific Linguistics 
+* University of Hawai'i Press
 
 ##Major content delivery networks
-_These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products._
+_These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products provided to via subscription to institutions._
 * HathiTrust: http://catalog.hathitrust.org/Record/004279552
 * JSTOR
 * Project Muse
 * [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
 * [ELSEVIER](http://www.elsevier.com/) - via ScienceDirect
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
+
+##Journals
+_The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
+* Language
+* Lingusitics
+* [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
+* Word
+* Linguistic Issues in Language Technology
+* [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 
 ##Organizations of interests in the archiving and preservation sphere
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
