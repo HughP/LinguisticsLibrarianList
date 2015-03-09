@@ -175,6 +175,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 * Word
+* [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
 
 ##Organizations of interests in the archiving and preservation sphere
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
