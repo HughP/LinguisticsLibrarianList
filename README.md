@@ -138,7 +138,8 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 * Blackwell's Linguistics Abstracts Online
-* MLA International Bibliography
+* [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
+
 
 ####Special purpose repositories
 * [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Aggregated in OLAC**
@@ -181,12 +182,18 @@ _These networks often are in the business of granting a variety of access types 
 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
+* [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
+* [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
 * [GIALens](http://www.gial.edu/gialens/) 
+* [Journal for Language Teaching](http://www.ajol.info/index.php/jlt)
+* [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
+* [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
 * [Language & Communication] - ISSN: 0271-5309
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
+* [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
 * Lingusitics
 * [Lingua] - ISSN: 0024-3841
 * [Linguistic Discovery] - ISSN: 1537-0852
@@ -213,7 +220,8 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [South East Asian Studies] - ISSN: 
 * [Speech Communication] - ISSN: 0167-6393
 * [Studia Linguistica] - ISSN: 1467-9582
-* [Studies in African Linguistics] - ISSN: 
+* [Studies in African Linguistics] - ISSN:
+* [Studies in English Language Teaching](http://www.scholink.org/ojs/index.php/selt)  - ISSN: 2372-9740
 * [Studies in Language] - ISSN: 0378–4177
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
