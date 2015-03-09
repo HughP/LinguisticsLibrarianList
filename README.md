@@ -129,7 +129,8 @@ _Tools for working with files._
 
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
-* [BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X. 
+* [BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
+* [XCorrSound](http://xcorrsound.openpreservation.org/) - Suite of tools for automated quality assurance of audio migration processes. Get the code on github https://github.com/openpreserve/scape-xcorrsound
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
