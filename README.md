@@ -141,11 +141,11 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 * Blackwell's Linguistics Abstracts Online
 * [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
-* Web of Science
-* Academic Search Premier
-* ERIC (Education)
+* [Web of Science](http://thomsonreuters.com/en/products-services/scholarly-scientific-research/scholarly-search-and-discovery/web-of-science.html) - Thomson Reuters index product
+* [Academic Search Premier](http://www.ebscohost.com/ACADEMIC/academic-search-premier) - EBSCOhost index product
+* [ERIC (Education)](http://eric.ed.gov/) - US goverment portal to archived resoruces. (Free open use).
 * PsycINFO
-* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused protal, not just linguistics and language based content)
+* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused protal, not just linguistics and language based content.) Most if not all are Open Access.
 
 
 ####Special purpose repositories
