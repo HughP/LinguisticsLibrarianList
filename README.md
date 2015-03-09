@@ -138,6 +138,7 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 * Blackwell's Linguistics Abstracts Online
+* MLA International Bibliography
 
 ####Special purpose repositories
 * [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Aggregated in OLAC**
@@ -194,6 +195,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
 * [Linguistik online] - ISSN:
 * [Mon-Khmer Studies] - ISSN:
+* [MSU Working Papers in Second Language Studies](http://sls.msu.edu/soslap/journal/index.php/sls/index)
 * [Natural Language & Linguistic Theory] - ISSN: 0167-806X
 * [Natural Language Engineering] - ISSN: 1469-8110
 * [Nordic Journal of African Studies] - ISSN:
@@ -202,8 +204,8 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Philippine Journal for Language Teaching] - ISSN:
 * [Philippine Journal of Linguistics](http://www.dlsu.edu.ph/inside/organizations/lsp/journal.asp) - ISSN: 0048-3796
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
-* [Phonology] - ISSN: 0952-6757
-* [Reading and Writing] - ISSN: 0922-4777
+* [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757
+* [Reading and Writing](http://link.springer.com/journal/11145) - ISSN: 0922-4777
 * [Second Language Studies] - ISSN: 
 * [Semiotica] - ISSN:
 * [Sign Language Studies] - ISSN:
@@ -215,7 +217,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Studies in Language] - ISSN: 0378–4177
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
-* [Studies in Second Language Acquisition] - ISSN: 1470-1545
+* [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 * [Theoretical Linguistics] - ISSN: 16134060
 * [Toronto Working Papers in Linguistics] - ISSN: 
@@ -235,7 +237,6 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [European Broadcast Union](http://www3.ebu.ch/home) - The EBU sets standards for data interoperability within the EU for data used within their domain (radio, audio transmissions, etc). As such they are a key stakeholder and decision maker for digital audio formats.
 * [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
-* 
 
 ##General Archival organizations of interest
 * [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)
