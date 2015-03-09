@@ -114,6 +114,7 @@ _There are currently no known journal management systems which have an indexing 
 * Some journals like _[Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)_ use WordPress. It is imagined that some journals also might try and use Drupal.
 
 ####Digital showcases or display environments
+_These tools are designed to easily present visual interactions with archvied collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *dispaly envirments* pull data from repositories and create interactions with it.
 * [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data.
 * [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
