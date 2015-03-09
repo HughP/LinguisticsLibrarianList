@@ -215,6 +215,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 ##General Archival organizations of interest
 * [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)
 * [Society of American Archivists](http://www2.archivists.org/)
+* [Conservation OnLine](http://cool.conservation-us.org/)
 
 ##Metadata standards and schemas
 * [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
