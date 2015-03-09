@@ -14,7 +14,7 @@ Sections are marked with ## and contain a variety of sub-sections (marked with #
 * **Networks**: _Groups of people including professionals, which can be a resource as a community. Networks inlcude links to societies, associations, and mailing lists._
 * **Policies**: _Any public facing business description of business practices._
 * **Services**: _A buiness function retuning and intangable commodity. See [Wikipedia](http://en.wikipedia.org/wiki/Service_(economics))_
-* **Journals**: _Academic and professional serial publications on a particular topic or subject._
+* **Journals**: _Academic and professional serial publications on a particular topic or subject. As a subsection these are journals which relate only to the section, not to linguistics in general. General linguistics and language related journals have their own full section._
 * **Projects**: _Specific endevors which may be colaborative or undertaken by a single institution._  
 * **Products**: _Specific things created and are usally sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
 * **Descriptive metadata**: _Metadata schemas which describe resources._
@@ -190,6 +190,7 @@ _These networks often are in the business of granting a variety of access types 
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
+* Dialectologia et Geolinguistica
 * [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
 * [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
 * [GIALens](http://www.gial.edu/gialens/) 
