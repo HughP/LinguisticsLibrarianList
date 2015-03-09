@@ -154,7 +154,7 @@ _These networks often are in the business of granting a variety of access types 
 * JSTOR
 * Project Muse
 * [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
-* [ELSEVIER](http://www.elsevier.com/)
+* [ELSEVIER](http://www.elsevier.com/) - via ScienceDirect
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
 
 ##Organizations of interests in the archiving and preservation sphere
