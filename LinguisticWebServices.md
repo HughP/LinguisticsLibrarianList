@@ -15,6 +15,10 @@ _If you know of something, but wonder if it really fits, open an issue and lets 
 ##Services with meta-language data
 * [LL-MAP](http://www.llmap.org) - Service Provider: _LinguistList_ - A tool for looking at the geographical dispersion of language users. Users can provide their own data as well as look at geo-aligned previously claimed data in the form of published maps. **Service is currently not fuctional.** Former provider was [Institute for Geospatial Research & Education](http://igre.emich.edu/igre/gisresearch/international/ll_map) at [Eastern Michigan University](http://www.emich.edu/) (EMU was also the former host of LinguistList)
 
+##Services which provide "archiving"
+* [Mukurtu](http://www.mukurtu.org/) - Hosted "archive" meaning material content access via appropiate restrictions.
+* [DuraSpace](http://www.duraspace.org/) - particualrly DuraCloud
+
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
