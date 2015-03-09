@@ -17,7 +17,7 @@ _If you know of something, but wonder if it really fits, open an issue and lets 
 
 ##Services which provide "archiving"
 * [Mukurtu](http://www.mukurtu.org/) - Hosted "archive" meaning material content access via appropiate restrictions.
-* [DuraSpace](http://www.duraspace.org/) - particualrly DuraCloud
+* [DuraSpace](http://www.duraspace.org/) - particularly [DuraCloud](http://www.duracloud.org/)
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
