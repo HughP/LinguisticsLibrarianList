@@ -171,7 +171,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * Language
 * [Language & Communication] - ISSN: 0271-5309
 * Lingusitics
-* [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/)
+* [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 * Word
