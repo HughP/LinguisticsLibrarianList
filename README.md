@@ -168,7 +168,7 @@ _These networks often are in the business of granting a variety of access types 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
-* [GIALens] 
+* [GIALens](http://www.gial.edu/gialens/) 
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
 * [Language & Communication] - ISSN: 0271-5309
