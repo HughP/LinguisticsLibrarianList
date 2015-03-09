@@ -20,6 +20,7 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * **Descriptive metadata**: _Metadata schemas which describe resources._
 * **Catalogues**:
 * **Aggregators and index(ing) products**:
+* **Digital Tools**: Software to complete a specialized task
 
 ##Resources for audio curation and digitization
 
@@ -42,6 +43,9 @@ of the American Library Association
 * [ARSC Journal](http://www.arsc-audio.org/journal.html)
 * [The Journal of the Audio Engineering Society](http://www.aes.org/journal/)
 
+####Digital tools
+* [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
+* [XCorrSound](http://xcorrsound.openpreservation.org/) - Suite of tools for automated quality assurance of audio migration processes. Get the code on github https://github.com/openpreserve/scape-xcorrsound
 
 ##Resources for video curation and digitization
 
@@ -131,8 +135,7 @@ _Tools for working with files._
 
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
-* [BWF MetaEdit]() - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
-* [XCorrSound](http://xcorrsound.openpreservation.org/) - Suite of tools for automated quality assurance of audio migration processes. Get the code on github https://github.com/openpreserve/scape-xcorrsound
+* [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
