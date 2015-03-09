@@ -170,12 +170,24 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
 * [Language & Communication] - ISSN: 0271-5309
-* Lingusitics
-* [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
-* [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
-* [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
-* Word
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
+* Lingusitics
+* [Lingua] - ISSN: 0024-3841
+* [Linguistic Discovery] - ISSN: 1537-0852
+* [Linguistic Typology] - ISSN: 1430-0532
+* [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
+* [Linguistics in the Netherlands] - ISSN: 0929-7332
+* [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
+* [Philippine Journal of Linguistics] 
+* [Phonetica] - ISSN: 0031-8388
+* [Reading and Writing] - ISSN: 0922-4777
+* [Studies in Philippine Languages and Cultures] 
+* [Studies in Philippine Linguistics] - ISSN: 
+* [Studies in Second Language Acquisition] - ISSN: 1470-1545
+* [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
+* [Theoretical Linguistics] - ISSN: 16134060
+* [Written Language & Literacy] - ISSN: 1387-6732
+* Word
 
 ##Organizations of interests in the archiving and preservation sphere
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
