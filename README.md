@@ -180,7 +180,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
-* [Philippine Journal of Linguistics] 
+* [Philippine Journal of Linguistics](http://www.dlsu.edu.ph/inside/organizations/lsp/journal.asp) - ISSN: 0048-3796
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
 * [Reading and Writing] - ISSN: 0922-4777
 * [Studies in Philippine Languages and Cultures] 
