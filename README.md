@@ -136,22 +136,23 @@ _These resources are sometimes only aggregators, but other times may also be ful
 ##Publishers 
 _These publishers have significant portions of their businesses which focus on academic resources about linguistics, anthropology, language documentation, [ethnobotany](http://en.wikipedia.org/wiki/Ethnobotany), [ethnomusicology](http://en.wikipedia.org/wiki/Ethnomusicology), ethno-arts, and minority language resources._
 * Acta Universitatis Upsaliensis
+* [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
 * Brill
 * Cambridge University Press
 * [Cascadilla Proceedings Project](http://lingref.com/) - This is a publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
 * [ELSEVIER](http://www.elsevier.com/)
 * John Benjamins
+* Karger
 * Mouton De Gruyter
 * Oxford University Press
+* Pacific Linguistics 
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 * Sage Publishing
 * [SIL International](http://www.sil.org/resources/publications/about)
 * [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - This press publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
-* [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
-* Pacific Linguistics 
 * University of Hawai'i Press
 
 ##Major content delivery networks
@@ -167,6 +168,7 @@ _These networks often are in the business of granting a variety of access types 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
+* [GIALens] 
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
 * [Language & Communication] - ISSN: 0271-5309
@@ -179,7 +181,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
 * [Philippine Journal of Linguistics] 
-* [Phonetica] - ISSN: 0031-8388
+* [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
 * [Reading and Writing] - ISSN: 0922-4777
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
@@ -188,6 +190,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Theoretical Linguistics] - ISSN: 16134060
 * [Written Language & Literacy] - ISSN: 1387-6732
 * Word
+* [Zeitschrift für Dialektologie und Linguistik] 
 
 ##Organizations of interests in the archiving and preservation sphere
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
