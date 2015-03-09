@@ -77,6 +77,7 @@ of the American Library Association
 * [World Language Mapping System](http://www.worldgeodatasets.com/language/) - _World Language Mapping System_ Is a collaborative data publication between SIL International and [GMI (Global Mapping International)](http://www.gmi.org/). Most of the shape files from the Ethnologue's maps are included. They are usually updated following the most recent update of the Ethnologue.
 * [World Language Phyla/Family Mapping](http://www.worldgeodatasets.com/language/huffman/?pathinfo=products/gis/wlms/sample-maps/huffman/) - A set of global maps using the WLMS product but with language family arrangement by Dr. Stephen Huffman.
 * [Langscape](http://ling.umd.edu/~colin/wordpress/?page_id=110) - A project for geobrowsing language data from the University of Maryland. It uses the WLMS product as it's base layer as of 2014.
+* [UNESCO Atlas of the World's Languages in Danger](http://www.unesco.org/languages-atlas/) 
 
 ####Journals
 * Dialectologia et Geolinguistica
@@ -139,6 +140,11 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
 * Blackwell's Linguistics Abstracts Online
 * [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
+* Web of Science
+* Academic Search Premier
+* ERIC (Education)
+* PsycINFO
+* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused protal, not just linguistics and language based content)
 
 
 ####Special purpose repositories
@@ -181,19 +187,23 @@ _These networks often are in the business of granting a variety of access types 
 * [IngentaConnect](http://www.ingentaconnect.com/) - seems to be related to John Benjamins publishing
 
 ##Journals
-_The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
+_The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
 * [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
+* [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
 * [GIALens](http://www.gial.edu/gialens/) 
-* [Journal for Language Teaching](http://www.ajol.info/index.php/jlt)
+* [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
+* [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
-* [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
+* [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
+* [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
 * Language
 * [Language & Communication] - ISSN: 0271-5309
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
+* [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * Lingusitics
 * [Lingua] - ISSN: 0024-3841
 * [Linguistic Discovery] - ISSN: 1537-0852
@@ -201,6 +211,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
 * [Linguistik online] - ISSN:
+* [Marang: Journal of Language and Literature](http://www.ajol.info/index.php/marang) -  ISSN: 1816-7659
 * [Mon-Khmer Studies] - ISSN:
 * [MSU Working Papers in Second Language Studies](http://sls.msu.edu/soslap/journal/index.php/sls/index)
 * [Natural Language & Linguistic Theory] - ISSN: 0167-806X
@@ -216,8 +227,10 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Second Language Studies] - ISSN: 
 * [Semiotica] - ISSN:
 * [Sign Language Studies] - ISSN:
-* [SKY Journal of Linguistics] - ISSN: 
-* [South East Asian Studies] - ISSN: 
+* [SKY Journal of Linguistics] - ISSN:
+* [South African Journal of African Languages](http://www.ajol.info/index.php/sajal) - ISSN: 0257-2117
+* [South East Asian Studies] - ISSN:
+* [Southern African Linguistics and Applied Language Studies](http://www.ajol.info/index.php/salas) -  ISSN: 1607-3614
 * [Speech Communication] - ISSN: 0167-6393
 * [Studia Linguistica] - ISSN: 1467-9582
 * [Studies in African Linguistics] - ISSN:
@@ -227,7 +240,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Studies in Philippine Linguistics] - ISSN: 
 * [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
-* [Theoretical Linguistics] - ISSN: 16134060
+* [Theoretical Linguistics] - ISSN: 1613-4060
 * [Toronto Working Papers in Linguistics] - ISSN: 
 * [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
 * [Writing Systems Research] - ISSN: 1758-6801
