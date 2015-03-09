@@ -97,9 +97,10 @@ of the American Library Association
 
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
+_These tools are designed to do digital object and associated metadata managment._
 * EPrints
 * [DSpace](http://www.dspace.org/)
-* Fedora
+* [Fedora](http://fedorarepository.org/)
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content management, and Drupal for custom content presentations.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 
@@ -208,7 +209,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * Lingusitics
 * [Lingua] - ISSN: 0024-3841
-* [Linguistic Discovery] - ISSN: 1537-0852
+* [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
 * [Linguistic Typology] - ISSN: 1430-0532
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
@@ -235,9 +236,9 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Southern African Linguistics and Applied Language Studies](http://www.ajol.info/index.php/salas) -  ISSN: 1607-3614
 * [Speech Communication] - ISSN: 0167-6393
 * [Studia Linguistica] - ISSN: 1467-9582
-* [Studies in African Linguistics] - ISSN:
+* [Studies in African Linguistics](http://elanguage.net/journals/sal) - ISSN: 00390-3533
 * [Studies in English Language Teaching](http://www.scholink.org/ojs/index.php/selt)  - ISSN: 2372-9740
-* [Studies in Language] - ISSN: 0378–4177
+* [Studies in Language](https://benjamins.com/#catalog/journals/sl/main) - ISSN: 0378–4177
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
 * [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
