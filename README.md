@@ -221,14 +221,16 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
 * [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
 * [ISO 639-3](http://www-01.sil.org/iso639-3/default.asp) - Metadata for languages.
-* [MARC21]
+* [MARC21](http://www.loc.gov/marc/96principl.html)
 * [MARCXML]
 * [OAI-PMH](http://www.openarchives.org/pmh/)
 * [OAI-PMH2](http://www.openarchives.org/OAI/openarchivesprotocol.html)
 * [OAI-ORE](http://www.openarchives.org/ore/)
-* [RDF]
+* [RDF](http://www.w3.org/RDF/)
 * American National Standards Institute (ANSI) standard Z39.88
+* American National Standards Institute (ANSI) standard Z39.50 [On Wikipedia](http://en.wikipedia.org/wiki/Z39.50)
 * [COinS](http://ocoins.info/) - ContextObject in SPAN (COinS)- Embedding Citation Metadata in HTML
+* [SPAR](http://sempublishing.sourceforge.net/)
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
