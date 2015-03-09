@@ -192,15 +192,35 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Linguistic Typology] - ISSN: 1430-0532
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
+* [Linguistik online] - ISSN:
+* [Mon-Khmer Studies] - ISSN:
+* [Natural Language & Linguistic Theory] - ISSN: 0167-806X
+* [Natural Language Engineering] - ISSN: 1469-8110
+* [Nordic Journal of African Studies] - ISSN:
+* [Oceania] - ISSN: 0029-8077
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
+* [Philippine Journal for Language Teaching] - ISSN:
 * [Philippine Journal of Linguistics](http://www.dlsu.edu.ph/inside/organizations/lsp/journal.asp) - ISSN: 0048-3796
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
+* [Phonology] - ISSN: 0952-6757
 * [Reading and Writing] - ISSN: 0922-4777
+* [Second Language Studies] - ISSN: 
+* [Semiotica] - ISSN:
+* [Sign Language Studies] - ISSN:
+* [SKY Journal of Linguistics] - ISSN: 
+* [South East Asian Studies] - ISSN: 
+* [Speech Communication] - ISSN: 0167-6393
+* [Studia Linguistica] - ISSN: 1467-9582
+* [Studies in African Linguistics] - ISSN: 
+* [Studies in Language] - ISSN: 0378–4177
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
 * [Studies in Second Language Acquisition] - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 * [Theoretical Linguistics] - ISSN: 16134060
+* [Toronto Working Papers in Linguistics] - ISSN: 
+* [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
+* [Writing Systems Research] - ISSN: 1758-6801
 * [Written Language & Literacy] - ISSN: 1387-6732
 * Word
 * [Zeitschrift für Dialektologie und Linguistik] 
