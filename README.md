@@ -11,7 +11,7 @@ Please organize additions by section first and then alphabetical, within a secti
 
 Sections are marked with ## and contain a variety of sub-sections (marked with ####) as sub-sections are needed for clarity (not every section will have all sub-sections). Some of these sub-sections include:
 * **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
-* **Networks**: _Groups of people including professionals, which can be a resource as a community._
+* **Networks**: _Groups of people including professionals, which can be a resource as a community. Networks inlcude links to societies, associations, and mailing lists._
 * **Policies**: _Any public facing business description of business practices._
 * **Services**: _A buiness function retuning and intangable commodity. See [Wikipedia](http://en.wikipedia.org/wiki/Service_(economics))_
 * **Journals**: _Academic and professional serial publications on a particular topic or subject._
@@ -26,6 +26,8 @@ Sections are marked with ## and contain a variety of sub-sections (marked with #
 ####Networks
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the USA library of congress. Audio professionals of various kinds are on this list, including professional digitizers, professionals working in the recording industry, and archivists and audio collection curators for radio broadcasters.
 * [Audio Engineering Society](http://www.aes.org/) - This society provides scientific documentation for digital audio, in addition to several relevant specifications for digitizing audio and maintaining metadata. [Citations are maintained in a separate list](/AESCitations.md).
+* [Audio Preservation](http://cool.conservation-us.org/bytopic/audio/) - COoL PARS Recording and Photographic Media Committee 
+of the American Library Association
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
@@ -35,17 +37,23 @@ Sections are marked with ## and contain a variety of sub-sections (marked with #
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
 * [AVPreserve](http://www.avpreserve.com/) - AVPreserve is a media and information management consulting firm. We partner with organizations that create or collect media content to help develop and implement resources that allow them to better manage, use, distribute, and preserve their media assets and metadata. They also produce a variety of open source tools.
 
+####Journals
+* [ARSC Journal](http://www.arsc-audio.org/journal.html)
+* [The Journal of the Audio Engineering Society](http://www.aes.org/journal/)
+
 
 ##Resources for video curation and digitization
 
 ####Networks
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
-* [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
-
+* AMIA-L
 ####Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
 
 ####Services
+
+####Journals
+* [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 
 ##Resources for still image curation and digitization
 
@@ -192,7 +200,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * Word
 * [Zeitschrift für Dialektologie und Linguistik] 
 
-##Organizations of interests in the archiving and preservation sphere
+##Organizations of interests in the archiving and preservation sphere (for linguistics and technical focus)
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
 *  [JISC](http://www.jisc.ac.uk/) - (Formerly the Joint Information Systems Committee.) A registered UK charity which champions the use of digital technologies in UK education and research. They have an active role in preservation and metadata developments. [See more on Wikipedia](http://en.wikipedia.org/wiki/Jisc).
 *  [Library of Congress (U.S.)](http://www.loc.gov/standards/) - The Library of Congress has extensive audio collections and is involved in many digitization projects. They host the ARSC mailing list which is a network of audio library curators and digitization specialists.  They also host several resources on standards for archiving and describing collections. 
@@ -202,6 +210,11 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [European Broadcast Union](http://www3.ebu.ch/home) - The EBU sets standards for data interoperability within the EU for data used within their domain (radio, audio transmissions, etc). As such they are a key stakeholder and decision maker for digital audio formats.
 * [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
+* 
+
+##General Archival organizations of interest
+* [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)
+* [Society of American Archivists](http://www2.archivists.org/)
 
 ##Metadata standards and schemas
 * [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
