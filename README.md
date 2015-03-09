@@ -169,6 +169,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
+* [Language & Communication] - ISSN: 0271-5309
 * Lingusitics
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/)
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
