@@ -162,15 +162,18 @@ _These networks often are in the business of granting a variety of access types 
 * [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
 * [ELSEVIER](http://www.elsevier.com/) - via ScienceDirect
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
+* [IngentaConnect](http://www.ingentaconnect.com/) - seems to be related to John Benjamins publishing
 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one._
+* [Diachronica](https://benjamins.com/#catalog/journals/dia/main)ISSN 0176-4225
+* [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * Language
 * Lingusitics
-* [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
-* Word
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/)
+* [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
+* Word
 
 ##Organizations of interests in the archiving and preservation sphere
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
