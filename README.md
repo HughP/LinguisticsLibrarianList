@@ -19,7 +19,7 @@ Sections are marked with ## and contain a variety of sub-sections (marked with #
 * **Products**: _Specific things created and are usally sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
 * **Descriptive metadata**: _Metadata schemas which describe resources._
 * **Catalogues**:
-* **Aggregators and services**:
+* **Aggregators and index(ing) products**:
 
 ##Resources for audio curation and digitization
 
@@ -117,7 +117,7 @@ _Enriching files according to the best practices outlined in the [Embedded Metad
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
-####Aggregators and services
+####Aggregators and index(ing) products
 * [OLAC](http://search.language-archives.org/index.html) - An aggregation of resource from a variety of archives.
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 * [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
