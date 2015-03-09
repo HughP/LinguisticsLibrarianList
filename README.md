@@ -28,6 +28,7 @@ Sections are marked with ## and contain a variety of sub-sections (marked with #
 * [Audio Engineering Society](http://www.aes.org/) - This society provides scientific documentation for digital audio, in addition to several relevant specifications for digitizing audio and maintaining metadata. [Citations are maintained in a separate list](/AESCitations.md).
 * [Audio Preservation](http://cool.conservation-us.org/bytopic/audio/) - COoL PARS Recording and Photographic Media Committee 
 of the American Library Association
+* [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
@@ -46,14 +47,18 @@ of the American Library Association
 
 ####Networks
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
-* AMIA-L
+* [AMIA](http://www.amianet.org/about/mission) - Association of Moving Image Archivists
+* [AMIA-L](http://www.amianet.org/participate/listserv.php) - Mailing list for Association of Moving Image Archivists
+
 ####Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
+* [AMIA](http://saa.archivists.org/store/amia-compendium-of-moving-image-cataloging-practice/325/) - Cataloging practice guidelines
 
 ####Services
 
 ####Journals
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
+* [The Moving Image](http://www.amianet.org/resources-and-publications/publications/journal) - The Journal of the Association of Moving Image Archivists
 
 ##Resources for still image curation and digitization
 
