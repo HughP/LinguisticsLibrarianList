@@ -1,3 +1,9 @@
+what is a text?
+
+What is a corpus?
+
+What is a collection?
+
 What is a repository?
 
 What is an Archive?
