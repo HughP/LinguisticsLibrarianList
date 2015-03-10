@@ -197,7 +197,7 @@ _These publishers have significant portions of their businesses which focus on a
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
 * [ELSEVIER](http://www.elsevier.com/)
-* [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on signlanguage studies.
+* [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * John Benjamins
 * Karger
 * Mouton De Gruyter
@@ -317,6 +317,7 @@ _This section highlights some metadata standards and schemas in common use and w
 * [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly percieved as one or two of two things: 
   1. a metadata standard/schema for interoperability of linguistic resource discovery metadata
   2. a web location for doing a search for materials in participation archives
+
   Within the context of the metadata standard, OLAC builds upon DCMI and uses DCMI term in addition to several extended vocabularies. OLAC is considered the best practice starting point for describing linguistic and langauge collections.
 * [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
 * [ISO 639-3](http://www-01.sil.org/iso639-3/default.asp) - Metadata for languages.
