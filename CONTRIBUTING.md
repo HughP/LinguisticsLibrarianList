@@ -3,7 +3,6 @@
 We love pull requests. Here's a quick guide.
 
 * Read the [Additions guide](https://github.com/HughP/LinguisticsLibrarianList#additions)
-
 * [Edit the text](https://github.com/HughP/LinguisticsLibrarianList/edit/master/README.md)
 * Add yourself as a contributor in the [README](https://github.com/HughP/LinguisticsLibrarianList/edit/master/README.md) if you want to be listed as a contributor.
 * [Submit a pull request][pr].
