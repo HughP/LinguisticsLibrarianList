@@ -225,6 +225,8 @@ _Other lists of linguistics journals include_:
 * http://linguistlist.org/pubs/journals/browse-journals.cfm
 * http://linguistlist.org/pubs/journals/
 * http://en.wikipedia.org/wiki/List_of_linguistics_journals
+* http://www.nehu.ac.in/Announcements/CASJournals/Linguistics.pdf
+
 #####This list
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
