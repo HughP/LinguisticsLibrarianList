@@ -308,7 +308,12 @@ _Other lists of linguistics journals include_:
 * [Conservation OnLine](http://cool.conservation-us.org/)
 
 ##Metadata standards and schemas
-* [OLAC](http://www.language-archives.org/tools.html) - a metadata standard/schema for interoperability of linguistic resource discovery metadata
+_This section highlights some metadata standards and schemas in common use and why they are important for the linguistics librarian, the special collections librarian and language archivist dealing with language artifacts, and the linguist._
+* DCMI - This is the premire most widely accepted and used metadata standard for metadata exchange beteween organizations. The standard defines broad chategories and allows for some variation within those categories.
+* [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly percieved as one or two of two things: 
+  1. a metadata standard/schema for interoperability of linguistic resource discovery metadata
+  2. a web location for doing a search for materials in participation archives
+  Within the context of the metadata standard, OLAC builds upon DCMI and uses DCMI term in addition to several extended vocabularies. OLAC is considered the best practice starting point for describing linguistic and langauge collections.
 * [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
 * [ISO 639-3](http://www-01.sil.org/iso639-3/default.asp) - Metadata for languages.
 * [MARC21](http://www.loc.gov/marc/96principl.html)
@@ -321,6 +326,9 @@ _Other lists of linguistics journals include_:
 * American National Standards Institute (ANSI) standard Z39.50 [On Wikipedia](http://en.wikipedia.org/wiki/Z39.50)
 * [COinS](http://ocoins.info/) - ContextObject in SPAN (COinS)- Embedding Citation Metadata in HTML
 * [SPAR](http://sempublishing.sourceforge.net/)
+
+##Intelectual property, rights, and access
+
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
