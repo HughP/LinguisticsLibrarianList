@@ -220,6 +220,12 @@ _These networks often are in the business of granting a variety of access types 
 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
+#####Other lists of journals
+_Other lists of linguistics journals include_:
+* http://linguistlist.org/pubs/journals/browse-journals.cfm
+* http://linguistlist.org/pubs/journals/
+* http://en.wikipedia.org/wiki/List_of_linguistics_journals
+#####This list
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
 * Dialectologia et Geolinguistica
@@ -232,7 +238,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
 * [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
-* Language
+* [Language](http://www.linguisticsociety.org/lsa-publications/language) -	ISSN: 0097-8507
 * [Language & Communication] - ISSN: 0271-5309
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
 * [Language Learning & Technology](http://llt.msu.edu/)
