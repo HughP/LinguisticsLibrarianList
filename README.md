@@ -53,6 +53,9 @@ of the American Library Association
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [AMIA](http://www.amianet.org/about/mission) - Association of Moving Image Archivists
 * [AMIA-L](http://www.amianet.org/participate/listserv.php) - Mailing list for Association of Moving Image Archivists
+* [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
+* [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
+* [Ethnodoc](http://www.ethnodoc.org/)
 
 ####Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
@@ -61,17 +64,37 @@ of the American Library Association
 ####Services
 
 ####Journals
+#####Archival
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 * [The Moving Image](http://www.amianet.org/resources-and-publications/publications/journal) - The Journal of the Association of Moving Image Archivists
+
+#####Content creation
+* [Visual Anthropology Review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-7458) - ISSN: 1548-7458
+* [Visual Anthropology](http://www.tandfonline.com/toc/gvan20/current) - ISSN: 0894-9468
+* [Anthrovision](http://anthrovision.revues.org/)
+* [Visual Ethnography](http://www.vejournal.org/?journal=vejournal) - ISSN: 2281-1605
+* [Journal of Video Ethnography](http://www.videoethno.com/)
 
 ##Resources for still image curation and digitization
 
 ####Networks
+* [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
+* [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
+* [Ethnodoc](http://www.ethnodoc.org/)
 
 ####Best practices
 * [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handeling.
 
 ####Services
+####Journals
+
+#####Archival
+
+#####Content creation
+* [Visual Anthropology Review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-7458) - ISSN: 1548-7458
+* [Visual Anthropology](http://www.tandfonline.com/toc/gvan20/current) - ISSN: 0894-9468
+* [Anthrovision](http://anthrovision.revues.org/)
+* [Visual Ethnography](http://www.vejournal.org/?journal=vejournal) - ISSN: 2281-1605
 
 ##Resources for linguistic cartography and maps
 
