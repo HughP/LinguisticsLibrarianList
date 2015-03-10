@@ -306,7 +306,7 @@ _Other lists of linguistics journals include_:
 * [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
 
-##General Archival organizations of interest
+##General archival organizations of interest
 * [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)
 * [Society of American Archivists](http://www2.archivists.org/)
 * [Conservation OnLine](http://cool.conservation-us.org/)
