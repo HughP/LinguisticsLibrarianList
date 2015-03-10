@@ -167,9 +167,10 @@ _These publishers have significant portions of their businesses which focus on a
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
 * Brill
 * Cambridge University Press
-* [Cascadilla Proceedings Project](http://lingref.com/) - This is a publisher that publishes proceedings from linguistics conferences.
+* [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
 * [ELSEVIER](http://www.elsevier.com/)
+* [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on signlanguage studies.
 * John Benjamins
 * Karger
 * Mouton De Gruyter
@@ -179,7 +180,8 @@ _These publishers have significant portions of their businesses which focus on a
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 * Sage Publishing
 * [SIL International](http://www.sil.org/resources/publications/about)
-* [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - This press publishes various language learning materials and texts in North American languages.
+* Taylor & Francis Group
+* [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - Publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 * University of Hawai'i Press
 
@@ -210,6 +212,7 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * Language
 * [Language & Communication] - ISSN: 0271-5309
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
+* [Language Learning & Technology](http://llt.msu.edu/)
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * Lingusitics
@@ -232,9 +235,10 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
 * [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757
 * [Reading and Writing](http://link.springer.com/journal/11145) - ISSN: 0922-4777
+* [Reading in a Foreign Language](http://nflrc.hawaii.edu/rfl/) - ISSN: 1539-0578
 * [Second Language Studies] - ISSN: 
-* [Semiotica] - ISSN:
-* [Sign Language Studies] - ISSN:
+* [Semiotica](http://www.degruyter.com/view/j/semi) - ISSN: 1613-3692
+* [Sign Language Studies](http://gupress.gallaudet.edu/SLS.html) - ISSN:
 * [SKY Journal of Linguistics] - ISSN:
 * [South African Journal of African Languages](http://www.ajol.info/index.php/sajal) - ISSN: 0257-2117
 * [South East Asian Studies] - ISSN:
@@ -251,8 +255,8 @@ _The study of language and linguistics covers a wide range of diciplines and sub
 * [Theoretical Linguistics] - ISSN: 1613-4060
 * [Toronto Working Papers in Linguistics] - ISSN: 
 * [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
-* [Writing Systems Research] - ISSN: 1758-6801
-* [Written Language & Literacy] - ISSN: 1387-6732
+* [Writing Systems Research](http://www.tandfonline.com/toc/pwsr20/current) - ISSN: 1758-6801
+* [Written Language & Literacy](https://benjamins.com/#catalog/journals/wll/main) - ISSN: 1387-6732
 * Word
 * [Zeitschrift für Dialektologie und Linguistik] 
 
