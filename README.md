@@ -220,7 +220,7 @@ _These networks often are in the business of granting a variety of access types 
 * [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
 * [ELSEVIER](http://www.elsevier.com/) - via ScienceDirect
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
-* [IngentaConnect](http://www.ingentaconnect.com/) - seems to be related to John Benjamins publishing
+* [IngentaConnect](http://www.ingentaconnect.com/) - a wearhouse product for publishers to sell their journals. (So it is targeting institutional subscriptions.)
 
 ##Journals
 _The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
