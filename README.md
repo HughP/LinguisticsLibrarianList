@@ -134,6 +134,7 @@ _These tools are designed to do digital object and associated metadata managment
 * [Fedora](http://fedorarepository.org/)
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content management, and Drupal for custom content presentations.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
+* [Nabu](https://github.com/nabu-catalog/nabu) - nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items.
 
 
 ####Journal management systems
@@ -146,7 +147,7 @@ _There are currently no known journal management systems which have an indexing 
 
 ####Digital showcases or display environments
 _These tools are designed to easily present visual interactions with archvied collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *dispaly envirments* pull data from repositories and create interactions with it._
-* [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data.
+* [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data. [On Github](https://github.com/omeka/Omeka)
 * [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
@@ -155,6 +156,7 @@ _These tools are designed to easily present visual interactions with archvied co
 ####Submission managers
 * RAMP - created as a client side submission manager for submissions to DSpace.
 * SayMore - Organizes content durrent collection and creates a submission package
+* [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
 
 ####File Managment
 _Tools for working with files._
@@ -163,6 +165,9 @@ _Tools for working with files._
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
 * [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
+
+###Open Community Software groups
+* [Intersect Australia](http://www.intersect.org.au/)
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
