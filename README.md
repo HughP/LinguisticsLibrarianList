@@ -152,6 +152,7 @@ _These tools are designed to easily present visual interactions with archvied co
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
 * [Mukurtu](http://www.mukurtu.org/) - A Drupal 7 profile for managing content presented to communities. See [review 1](http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/24610/shepard.pdf?sequence=1) & [review 2](http://digitalreturn.wsu.edu/presentation/mukurtu-an-indigenous-archive-tool/)
+* [PeerLibrary](https://github.com/peerlibrary/peerlibrary) - Is a interactive layer on top of PDFs which allow for interactive discourse over printed literature.
 
 ####Submission managers
 * RAMP - created as a client side submission manager for submissions to DSpace.
