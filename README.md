@@ -85,9 +85,11 @@ of the American Library Association
 * [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
 * [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
 * [Ethnodoc](http://www.ethnodoc.org/)
+* [American Society of Media Photographers](https://asmp.org/) - Society of professional photographers
 
 ####Best practices
 * [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handeling.
+* [dpbestflow.org](http://dpbestflow.org/) - Digital Photography Best Practices and Workflow project. Creates guidelines for refined production workflows, archiving methods, and best practices for digital photography based on a variety of capture methods and intended image use.
 
 ####Services
 ####Journals
