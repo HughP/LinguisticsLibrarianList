@@ -285,7 +285,7 @@ _Other lists of linguistics journals include_:
 * Current Issues In Language and Society
 * Current Issues in Language Planning
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
-* Dialect
+* Dialect (方言)
 * Dialectical Anthropology
 * Dialectologia et Geolinguistica
 * Die Unterrichtspraxis / Teaching German
@@ -349,10 +349,16 @@ _Other lists of linguistics journals include_:
 * [Theoretical Linguistics] - ISSN: 1613-4060
 * [Toronto Working Papers in Linguistics] - ISSN: 
 * [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
+* [Word: journal of the Linguistic Circle of New York]
+* [World Englishes]
 * [Writing Systems Research](http://www.tandfonline.com/toc/pwsr20/current) - ISSN: 1758-6801
+* [Written Communication]
 * [Written Language & Literacy](https://benjamins.com/#catalog/journals/wll/main) - ISSN: 1387-6732
-* Word
-* [Zeitschrift für Dialektologie und Linguistik] 
+* [Zeitschrift fur germanistische linguistik]
+* [Zeitschrift für Bevölkerungswissenschaft]
+* [Zeitschrift für Dialektologie und Linguistik]
+* [Zeitschrift für Eingeborenen-Sprachen]
+* [Zeitschrift für Ethnologie]
 
 ##Organizations of interests in the archiving and preservation sphere (for linguistics and technical focus)
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
