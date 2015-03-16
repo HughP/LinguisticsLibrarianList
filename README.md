@@ -239,15 +239,65 @@ _Other lists of linguistics journals include_:
 * http://www.nehu.ac.in/Announcements/CASJournals/Linguistics.pdf
 
 #####This list
+* American Anthropologist
+* American Ethnologist
+* American Indian Culture and Research Journal
+* American Journal of Sociology
+* American Speech
+* Anglia: Zeitschrift fur Englische Philologie
+* Annual Literacy Reports
+* Annual Review of Anthropology
+* Annual Review of Applied Linguistics
+* Anthropological Linguistics
+* Anthropology & Education Quarterly
+* Anthropos
+* Applied Linguistics
+* Australian Journal of Linguistics
+* Australian Review of Applied Linguistics
+* Bantu Studies
+* Beiträge zur Iranistik
+* Belgian Journal of Linguistics
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
+* Bible Translator
+* Bilingual Education and Bilingualism
+* Bilingual Research Journal
+* Bilingual Review
+* Brain and Language
+* British Educational Research Journal
+* Bulletin of the School of Oriental and African Studies
+* Cahiers d'Etudes Africaines
+* Cahiers de Linguistique Asie Orientale
+* CALICO Journal
+* Canadian Journal of Linguistics
+* Canadian Modern Language Review
+* Catalan Journal of Linguistics
+* Cognition and language
+* Communication
+* Communication Quarterly
+* Communication Theory
+* Computational Linguistics
+* Computer Assisted Language Learning
+* Computer Speech & Language
+* Concentric: Studies in Linguistics
+* Corpus Linguistics and Linguistic Theory
+* Cultural Studies Review
+* Current Anthropology
+* Current Issues In Language and Society
+* Current Issues in Language Planning
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
+* Dialect
+* Dialectical Anthropology
 * Dialectologia et Geolinguistica
+* Die Unterrichtspraxis / Teaching German
 * [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
 * [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
 * [GIALens](http://www.gial.edu/gialens/) 
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
+* Journal of Literacy Research
+* Journal of Reading Behavior
+* Journal of Research in Reading
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
 * [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
@@ -265,6 +315,7 @@ _Other lists of linguistics journals include_:
 * [Linguistics in the Netherlands] - ISSN: 0929-7332
 * [Linguistik online] - ISSN:
 * [Marang: Journal of Language and Literature](http://www.ajol.info/index.php/marang) -  ISSN: 1816-7659
+* Modern Language Journal
 * [Mon-Khmer Studies] - ISSN:
 * [MSU Working Papers in Second Language Studies](http://sls.msu.edu/soslap/journal/index.php/sls/index)
 * [Natural Language & Linguistic Theory] - ISSN: 0167-806X
@@ -278,6 +329,7 @@ _Other lists of linguistics journals include_:
 * [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757
 * [Reading and Writing](http://link.springer.com/journal/11145) - ISSN: 0922-4777
 * [Reading in a Foreign Language](http://nflrc.hawaii.edu/rfl/) - ISSN: 1539-0578
+* Reading World
 * [Second Language Studies] - ISSN: 
 * [Semiotica](http://www.degruyter.com/view/j/semi) - ISSN: 1613-3692
 * [Sign Language Studies](http://gupress.gallaudet.edu/SLS.html) - ISSN:
