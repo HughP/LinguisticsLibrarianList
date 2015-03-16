@@ -118,6 +118,7 @@ of the American Library Association
 ##Resources for educational materials (such as curriculum) for minority languages
 ####Descriptive metadata
 * [LRMI](http://www.lrmi.net/) - _Learning Resource Metadata Initiative_ is a learning materials metadata specification which is part of [schema.org](http://schema.org/) and [under the stewardship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
+* [LTI](http://www.imsglobal.org/toolsinteroperability2.cfm) Learning Tools Interoperability is a technical standard which allows LMS systems to communicate learning results to other tools.
 
 ####Curriculum catalogues
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
