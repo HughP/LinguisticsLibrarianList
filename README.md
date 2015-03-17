@@ -207,10 +207,12 @@ _These publishers have significant portions of their businesses which focus on a
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
 * Dr. Ludwig Reichert Verlag
 * [ELSEVIER](http://www.elsevier.com/)
+* Equinox Publishing Ltd.
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * John Benjamins
 * Karger
 * Mouton De Gruyter
+* [Multilingual Matters / Channel View Publications](http://www.multilingual-matters.com/)
 * Oxford University Press
 * Pacific Linguistics 
 * [Routledge](http://www.routledge.com/)
@@ -270,7 +272,7 @@ _Other lists of linguistics journals include_:
 * Bulletin of the School of Oriental and African Studies
 * Cahiers d'Etudes Africaines
 * Cahiers de Linguistique Asie Orientale
-* CALICO Journal
+* [CALICO Journal](http://www.equinoxpub.com/journals/index.php/CALICO) - ISSN: 2056-9017
 * Canadian Journal of Linguistics
 * Canadian Modern Language Review
 * Catalan Journal of Linguistics
@@ -298,9 +300,9 @@ _Other lists of linguistics journals include_:
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
-* Journal of Literacy Research
-* Journal of Reading Behavior
-* Journal of Research in Reading
+* [Journal of Literacy Research](http://jlr.sagepub.com/) - ISSN: 1086-296X
+* [Journal of Reading Behavior]
+* [Journal of Research in Reading](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9817) - ISSN: 1467-9817
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
 * [Journal of the Anthropological Society of Oxford-online](http://www.anthro.ox.ac.uk/publications/jaso/) - ISSN: 2040-1876
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
@@ -312,14 +314,14 @@ _Other lists of linguistics journals include_:
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * Lingusitics
-* [Lingua] - ISSN: 0024-3841
+* [Lingua](http://www.journals.elsevier.com/lingua/) - ISSN: 0024-3841
 * [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
 * [Linguistic Typology] - ISSN: 1430-0532
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
-* [Linguistics in the Netherlands] - ISSN: 0929-7332
-* [Linguistik online] - ISSN:
+* [Linguistics in the Netherlands](http://www.jbe-platform.com/content/journals/15699919) - ISSN: 0929-7332
+* [Linguistik online](https://bop.unibe.ch/linguistik-online/) - ISSN: 1615-3014
 * [Marang: Journal of Language and Literature](http://www.ajol.info/index.php/marang) -  ISSN: 1816-7659
-* Modern Language Journal
+* [Modern Language Journal]
 * [Mon-Khmer Studies] - ISSN:
 * [MSU Working Papers in Second Language Studies](http://sls.msu.edu/soslap/journal/index.php/sls/index)
 * [Natural Language & Linguistic Theory] - ISSN: 0167-806X
@@ -350,7 +352,7 @@ _Other lists of linguistics journals include_:
 * [Studies in Philippine Linguistics] - ISSN: 
 * [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
-* [Theoretical Linguistics] - ISSN: 1613-4060
+* [Theoretical Linguistics](http://www.degruyter.com/view/j/thli) - ISSN: 1613-4060
 * [Toronto Working Papers in Linguistics] - ISSN: 
 * [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
 * [Word: journal of the Linguistic Circle of New York]
