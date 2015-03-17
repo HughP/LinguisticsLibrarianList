@@ -302,6 +302,7 @@ _Other lists of linguistics journals include_:
 * Journal of Reading Behavior
 * Journal of Research in Reading
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
+* [Journal of the Anthropological Society of Oxford-online](http://www.anthro.ox.ac.uk/publications/jaso/) - ISSN: 2040-1876
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
 * [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
 * [Language](http://www.linguisticsociety.org/lsa-publications/language) -	ISSN: 0097-8507
