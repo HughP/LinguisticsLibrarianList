@@ -4,19 +4,19 @@ This is an _Awesome List_ (which is a Github culture thing) for resources for Li
 ####Purpose
 There is no association for linguistic librarians, and no open association for archivists or institutional repository managers who focus on language materials. This list exists as a resource from _linguists_ to _linguistics librarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists of other kinds of materials who deal with collections in similar mediums.
 
-_What is a resource?_ Not a language resource (like a grammar or a description of a specific language). This list avoids resources about specific languages. Rather for the purposes of this list, resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occurring conferences, metadata specifications, file management tools,  etc. Which _linguistics librarians_, _special collections librarians_, and _archivists focused on language materials_ will find helpful in the course of their work (which for linguistic librarians would include directing linguists and language researchers to appropiate resources). For language archivists, who are often trained as linguists first and then land responsiblites as archvists, this list is designed to be a bridge and an introduction from one academic decipline (like linguistics) to be able to find out what is "normal" or "best practice" in another academic discipline (like preservation studies). Depending on the nature of the resource, some resources might be listed in multible sections.
+_What is a resource?_ Not a language resource (like a grammar or a description of a specific language). This list avoids resources about specific languages. Rather for the purposes of this list, resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occurring conferences, metadata specifications, file management tools,  etc. Which _linguistics librarians_, _special collections librarians_, and _archivists focused on language materials_ will find helpful in the course of their work (which for linguistic librarians would include directing linguists and language researchers to appropriate resources). For language archivists, who are often trained as linguists first and then land responsibilities as archivists, this list is designed to be a bridge and an introduction from one academic discipline (like linguistics) to be able to find out what is "normal" or "best practice" in another academic discipline (like preservation studies). Depending on the nature of the resource, some resources might be listed in multiple sections.
 
 ####Additions
 Please organize additions by section first and then alphabetical, within a section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributions must also agree with the license statement. _Got questions?_ create an issue.
 
 Sections are marked with ## in [markdown code](https://help.github.com/articles/markdown-basics/) and contain a variety of sub-sections (marked with ####). The introduction of sub-sections is flexible and new ones are added as are needed for clarity (not every section will have all sub-sections). Some of these sub-sections include:
-* **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achive results._
-* **Networks**: _Groups of people including professionals, which can be a resource as a community. Networks inlcude links to societies, associations, and mailing lists._
+* **Best practices**: _An industry standard or agreement on how to "properly" conduct an activity or to achieve results._
+* **Networks**: _Groups of people including professionals, which can be a resource as a community. Networks include links to societies, associations, and mailing lists._
 * **Policies**: _Any public facing business description of business practices._
-* **Services**: _A buiness function retuning and intangable commodity. See [Wikipedia](http://en.wikipedia.org/wiki/Service_(economics))_
+* **Services**: _A business function retuning and intangible commodity. See [Wikipedia](http://en.wikipedia.org/wiki/Service_(economics))_
 * **Journals**: _Academic and professional serial publications on a particular topic or subject. As a subsection these are journals which relate only to the section, not to linguistics in general. General linguistics and language related journals have their own full section._
-* **Projects**: _Specific endevors which may be colaborative or undertaken by a single institution._  
-* **Products**: _Specific things created and are usally sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
+* **Projects**: _Specific endeavors which may be collaborative or undertaken by a single institution._  
+* **Products**: _Specific things created and are usually sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
 * **Descriptive metadata**: _Metadata schemas which describe resources._
 * **Catalogues**:
 * **Aggregators and index(ing) products**:
@@ -36,7 +36,7 @@ of the American Library Association
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
-* [FADGI Embeding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recomendations about embeded metadata.
+* [FADGI Embeding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recommendations about embedded metadata.
 
 ####Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
@@ -114,7 +114,7 @@ of the American Library Association
 
 ####Journals
 * Dialectologia et Geolinguistica
-* International Journal of Geographical Information Science (sometimes has articals about people group and language mapping)
+* International Journal of Geographical Information Science (sometimes has articles about people group and language mapping)
 
 
 ##Resources for educational materials (such as curriculum) for minority languages
@@ -131,7 +131,7 @@ of the American Library Association
 
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
-_These tools are designed to do digital object and associated metadata managment._
+_These tools are designed to do digital object and associated metadata management._
 * EPrints
 * [DSpace](http://www.dspace.org/)
 * [Fedora](http://fedorarepository.org/)
@@ -149,7 +149,7 @@ _There are currently no known journal management systems which have an indexing 
 * Some journals like _[Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)_ use WordPress. It is imagined that some journals also might try and use Drupal.
 
 ####Digital showcases or display environments
-_These tools are designed to easily present visual interactions with archvied collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *dispaly envirments* pull data from repositories and create interactions with it._
+_These tools are designed to easily present visual interactions with archived collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *dispaly envirments* pull data from repositories and create interactions with it._
 * [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data. [On Github](https://github.com/omeka/Omeka)
 * [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
@@ -160,10 +160,10 @@ _These tools are designed to easily present visual interactions with archvied co
 
 ####Submission managers
 * RAMP - created as a client side submission manager for submissions to DSpace.
-* SayMore - Organizes content durrent collection and creates a submission package
+* SayMore - Organizes content during collection and creates a submission package
 * [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
 
-####File Managment
+####File Management
 _Tools for working with files._
 * [Fixity](http://www.avpreserve.com/tools/fixity/) - Open source utility for the documentation and regular review of stored files. Runs on Windows and OS X. Produced by AVPreserve.
 
@@ -178,7 +178,7 @@ _Enriching files according to the best practices outlined in the [Embedded Metad
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
 ####Aggregators and index(ing) products
 * [OLAC](http://search.language-archives.org/index.html) - An aggregation of resource from a variety of archives.
-* [Glottolog](http://glottolog.org/) - Listings of several biblographies in a web interface
+* [Glottolog](http://glottolog.org/) - Listings of several bibliographies in a web interface
 * [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
 * [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
 * [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
@@ -186,9 +186,9 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
 * [Web of Science](http://thomsonreuters.com/en/products-services/scholarly-scientific-research/scholarly-search-and-discovery/web-of-science.html) - Thomson Reuters index product
 * [Academic Search Premier](http://www.ebscohost.com/ACADEMIC/academic-search-premier) - EBSCOhost index product
-* [ERIC (Education)](http://eric.ed.gov/) - US goverment portal to archived resoruces. (Free open use).
+* [ERIC (Education)](http://eric.ed.gov/) - US government portal to archived resources. (Free open use).
 * PsycINFO
-* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused protal, not just linguistics and language based content.) Most if not all are Open Access.
+* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused portal, not just linguistics and language based content.) Most if not all are Open Access.
 
 
 ####Special purpose repositories
@@ -232,10 +232,10 @@ _These networks often are in the business of granting a variety of access types 
 * [EBSCO Host](http://www.ebscohost.com/metadata-sharing-policy)
 * [ELSEVIER](http://www.elsevier.com/) - via ScienceDirect
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
-* [IngentaConnect](http://www.ingentaconnect.com/) - a wearhouse product for publishers to sell their journals. (So it is targeting institutional subscriptions.)
+* [IngentaConnect](http://www.ingentaconnect.com/) - a wear house product for publishers to sell their journals. (So it is targeting institutional subscriptions.)
 
 ##Journals
-_The study of language and linguistics covers a wide range of diciplines and sub-diciplines. Therefore a wid variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
+_The study of language and linguistics covers a wide range of disciplines and sub-disciplines. Therefore a wide variety of journals may be listed as being "relevant to linguistics". The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one. (so far examples have only included journal titles, links, and ISSN or E-ISSN.)_ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
 #####Other lists of journals
 _Other lists of linguistics journals include_:
 * http://linguistlist.org/pubs/journals/browse-journals.cfm
@@ -384,12 +384,12 @@ _Other lists of linguistics journals include_:
 
 ##Metadata standards and schemas
 _This section highlights some metadata standards and schemas in common use and why they are important for the linguistics librarian, the special collections librarian and language archivist dealing with language artifacts, and the linguist._
-* DCMI - This is the premire most widely accepted and used metadata standard for metadata exchange beteween organizations. The standard defines broad chategories and allows for some variation within those categories.
-* [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly percieved as one or two of two things: 
+* DCMI - This is the premier most widely accepted and used metadata standard for metadata exchange between organizations. The standard defines broad categories and allows for some variation within those categories.
+* [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly perceived as one or two of two things: 
   1. a metadata standard/schema for interoperability of linguistic resource discovery metadata
   2. a web location for doing a search for materials in participation archives
 
-  Within the context of the metadata standard, OLAC builds upon DCMI and uses DCMI term in addition to several extended vocabularies. OLAC is considered the best practice starting point for describing linguistic and langauge collections.
+  Within the context of the metadata standard, OLAC builds upon DCMI and uses DCMI term in addition to several extended vocabularies. OLAC is considered the best practice starting point for describing linguistic and language collections.
 * [ONIX-PL](http://www.editeur.org/21/ONIX-PL/) - an XML format for the communication of license terms for digital publications in a structured and substantially encoded form, designed to serve the interests of all parties in the licensing chain.
 * [ISO 639-3](http://www-01.sil.org/iso639-3/default.asp) - Metadata for languages.
 * [MARC21](http://www.loc.gov/marc/96principl.html)
@@ -403,7 +403,7 @@ _This section highlights some metadata standards and schemas in common use and w
 * [COinS](http://ocoins.info/) - ContextObject in SPAN (COinS)- Embedding Citation Metadata in HTML
 * [SPAR](http://sempublishing.sourceforge.net/)
 
-##Intelectual property, rights, and access
+##Intellectual property, rights, and access
 
 
 ## License
