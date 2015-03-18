@@ -200,6 +200,10 @@ _These resources are sometimes only aggregators, but other times may also be ful
 
 ##Publishers 
 _These publishers have significant portions of their businesses which focus on academic resources about linguistics, anthropology, language documentation, [ethnobotany](http://en.wikipedia.org/wiki/Ethnobotany), [ethnomusicology](http://en.wikipedia.org/wiki/Ethnomusicology), ethno-arts, and minority language resources._
+#####Other lists
+* http://linguistlist.org/pubs/publishers.cfm
+
+#####This list
 * Acta Universitatis Upsaliensis
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
 * Brill
@@ -211,7 +215,9 @@ _These publishers have significant portions of their businesses which focus on a
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * John Benjamins
 * Karger
+* [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
 * Mouton De Gruyter
+* [MIT Press](http://mitpress.mit.edu/)
 * [Multilingual Matters / Channel View Publications](http://www.multilingual-matters.com/)
 * Oxford University Press
 * Pacific Linguistics 
@@ -284,6 +290,7 @@ _Other lists of linguistics journals include_:
 * Computer Assisted Language Learning
 * Computer Speech & Language
 * Concentric: Studies in Linguistics
+* [Constructions](http://elanguage.net/journals/constructions)
 * Corpus Linguistics and Linguistic Theory
 * Cultural Studies Review
 * Current Anthropology
@@ -293,14 +300,17 @@ _Other lists of linguistics journals include_:
 * Dialect (方言)
 * Dialectical Anthropology
 * Dialectologia et Geolinguistica
+* [Dialogue & Discourse](http://elanguage.net/journals/dad) - ISSN: 2152-9620
 * Die Unterrichtspraxis / Teaching German
 * [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
 * [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
 * [GIALens](http://www.gial.edu/gialens/) 
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
+* [Journal of Historical Syntax](http://elanguage.net/journals/jhs) - ISSN: 2163-6001
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
 * [Journal of Literacy Research](http://jlr.sagepub.com/) - ISSN: 1086-296X
+* [Journal of Mesoamerican Languages and Linguistics](http://elanguage.net/journals/jmll) - ISSN: 1932-44132
 * [Journal of Reading Behavior]
 * [Journal of Research in Reading](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9817) - ISSN: 1467-9817
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
@@ -333,6 +343,7 @@ _Other lists of linguistics journals include_:
 * [Philippine Journal of Linguistics](http://www.dlsu.edu.ph/inside/organizations/lsp/journal.asp) - ISSN: 0048-3796
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
 * [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757
+* [Pragmatics](http://elanguage.net/journals/pragmatics) - ISSN: 1018-2101 _Formerly IPrA PAPERS in PRAGMATICS._
 * [Reading and Writing](http://link.springer.com/journal/11145) - ISSN: 0922-4777
 * [Reading in a Foreign Language](http://nflrc.hawaii.edu/rfl/) - ISSN: 1539-0578
 * Reading World
@@ -344,6 +355,7 @@ _Other lists of linguistics journals include_:
 * [South East Asian Studies] - ISSN:
 * [Southern African Linguistics and Applied Language Studies](http://www.ajol.info/index.php/salas) -  ISSN: 1607-3614
 * [Speech Communication] - ISSN: 0167-6393
+* [Semantics and Pragmatics](http://www.linguisticsociety.org/content/semantics-and-pragmatics) - 
 * [Studia Linguistica] - ISSN: 1467-9582
 * [Studies in African Linguistics](http://elanguage.net/journals/sal) - ISSN: 00390-3533
 * [Studies in English Language Teaching](http://www.scholink.org/ojs/index.php/selt)  - ISSN: 2372-9740
