@@ -206,30 +206,38 @@ _These publishers have significant portions of their businesses which focus on a
 #####This list
 * Acta Universitatis Upsaliensis
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
-* [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com)
-* Brill
-* Cambridge University Press
+* [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com) see [keyword for linguistics](http://www.bloomsbury.com/uk/search?q=linguistics&Gid=1)
+* [Brill]()
+* [Cambridge University Press](http://us.cambridge.org)
+* [Cambridge Scholars Publishing](http://www.cambridgescholars.com) - see [keyword for linguistics](http://www.cambridgescholars.com/Linguistics)
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
+* [Classiques Garnier](http://www.classiques-garnier.com/) - offers to universities, public, private and research libraries online access to databases in the fields of literature and the humanities.
 * Dr. Ludwig Reichert Verlag
+* [Edinburgh University Press](http://www.euppublishing.com) - see [keyword for linguistics](http://www.euppublishing.com/page/LanguageLinguistics)
 * [ELSEVIER](http://www.elsevier.com/)
 * Equinox Publishing Ltd.
+* [European Language Resources Association (ELRA)](http://portal.elda.org/en/)
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
-* John Benjamins
+* [John Benjamins](http://www.benjamins.com/)
 * Karger
 * [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
-* Mouton De Gruyter
+* [Lincom GmbH](http://www.lincom-shop.eu/)
+* [Mouton De Gruyter](http://www.degruyter.com/)
 * [MIT Press](http://mitpress.mit.edu/)
 * [Multilingual Matters / Channel View Publications](http://www.multilingual-matters.com/)
-* Oxford University Press
-* Pacific Linguistics 
+* [Oxford University Press](https://global.oup.com/academic/?cc=us&lang=en&)
+* Pacific Linguistics
+* [Palgrave Macmillan](http://www.palgrave.com/) - see [keyword for linguistics](http://www.palgrave.com/page/results/?STEM=true&SF1=kword_index%252Cidentifier&SORT=mat_rank_us%252Fd&SF99=lang_toggle&ST99=us&ST1=linguistics)
+* [Peter Lang AG](http://www.peterlang.com/) see [keyword for linguistics](http://www.peterlang.com/index.cfm?cid=187&discipline=206#6791060)
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 * Sage Publishing
 * [SIL International](http://www.sil.org/resources/publications/about)
 * Taylor & Francis Group
+* [University of Arizona Press](http://www.uapress.arizona.edu/catalogs/index.php) - Publishes various regional, anthropological, and linguistic works.
 * [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - Publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
-* University of Hawai'i Press
+* [University of Hawai'i Press]
 
 ##Major content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products provided to via subscription to institutions._
