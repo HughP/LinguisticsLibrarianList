@@ -36,7 +36,7 @@ of the American Library Association
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
-* [FADGI Embeding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recommendations about embedded metadata.
+* [FADGI Embedding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recommendations about embedded metadata.
 
 ####Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
@@ -323,7 +323,7 @@ _Other lists of linguistics journals include_:
 * [Language Learning & Technology](http://llt.msu.edu/)
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
-* Lingusitics
+* Linguistics
 * [Lingua](http://www.journals.elsevier.com/lingua/) - ISSN: 0024-3841
 * [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
 * [Linguistic Typology] - ISSN: 1430-0532
