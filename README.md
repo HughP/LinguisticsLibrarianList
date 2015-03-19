@@ -206,6 +206,7 @@ _These publishers have significant portions of their businesses which focus on a
 #####This list
 * Acta Universitatis Upsaliensis
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
+* [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com)
 * Brill
 * Cambridge University Press
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
