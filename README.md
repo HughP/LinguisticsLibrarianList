@@ -206,8 +206,8 @@ _These publishers have significant portions of their businesses which focus on a
 #####This list
 * Acta Universitatis Upsaliensis
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
-* [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com) see [keyword for linguistics](http://www.bloomsbury.com/uk/search?q=linguistics&Gid=1)
-* [Brill]()
+* [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com) - see [keyword for linguistics](http://www.bloomsbury.com/uk/search?q=linguistics&Gid=1)
+* [Brill](http://www.brill.nl)
 * [Cambridge University Press](http://us.cambridge.org)
 * [Cambridge Scholars Publishing](http://www.cambridgescholars.com) - see [keyword for linguistics](http://www.cambridgescholars.com/Linguistics)
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
@@ -228,7 +228,7 @@ _These publishers have significant portions of their businesses which focus on a
 * [Oxford University Press](https://global.oup.com/academic/?cc=us&lang=en&)
 * Pacific Linguistics
 * [Palgrave Macmillan](http://www.palgrave.com/) - see [keyword for linguistics](http://www.palgrave.com/page/results/?STEM=true&SF1=kword_index%252Cidentifier&SORT=mat_rank_us%252Fd&SF99=lang_toggle&ST99=us&ST1=linguistics)
-* [Peter Lang AG](http://www.peterlang.com/) see [keyword for linguistics](http://www.peterlang.com/index.cfm?cid=187&discipline=206#6791060)
+* [Peter Lang AG](http://www.peterlang.com/) - see [keyword for linguistics](http://www.peterlang.com/index.cfm?cid=187&discipline=206#6791060)
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
 * Sage Publishing
