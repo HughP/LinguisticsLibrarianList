@@ -132,7 +132,7 @@ of the American Library Association
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
 _These tools are designed to do digital object and associated metadata management._
-* EPrints
+* [EPrints](http://www.eprints.org/uk/) [EPrints Bazzar](http://bazaar.eprints.org/)(plugins)
 * [DSpace](http://www.dspace.org/)
 * [Fedora](http://fedorarepository.org/)
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content management, and Drupal for custom content presentations.
@@ -162,6 +162,7 @@ _These tools are designed to easily present visual interactions with archived co
 * RAMP - created as a client side submission manager for submissions to DSpace.
 * SayMore - Organizes content during collection and creates a submission package
 * [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
+* Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
 
 ####File Management
 _Tools for working with files._
@@ -173,6 +174,8 @@ _Enriching files according to the best practices outlined in the [Embedded Metad
 
 ###Open Community Software groups
 * [Intersect Australia](http://www.intersect.org.au/)
+* [USA Library of congress](http://www.digitalpreservation.gov/tools/) - 44 tools indexed.
+* [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page)
 
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
@@ -436,12 +439,13 @@ _This section highlights some metadata standards and schemas in common use and w
 
 _Not sure where to put this one_
 * http://core.ac.uk/intro/api
-
+UK context: [RIOXX](http://scholarlycommunications.jiscinvolve.org/wp/2015/03/05/rioxx-2-0-plugin-for-eprints-ready-to-install/) and RCUK.
 
 ##Intellectual property, rights, and access
 ###General 
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
 
+###OpenAccess and OpenData requirements
 _This section needs some clean up still_
 SPARC: http://www.spark.arl.org/about
 Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
