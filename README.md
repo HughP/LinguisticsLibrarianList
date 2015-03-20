@@ -255,7 +255,7 @@ _The study of language and linguistics covers a wide range of disciplines and su
 _Other lists of linguistics journals include_:
 * http://linguistlist.org/pubs/journals/browse-journals.cfm
 * http://linguistlist.org/pubs/journals/
-* http://en.wikipedia.org/wiki/List_of_linguistics_journals
+* List of linguistics journals on [Wikipedia](http://en.wikipedia.org/wiki/List_of_linguistics_journals). Subsumed on 19. March 2015 
 * http://www.nehu.ac.in/Announcements/CASJournals/Linguistics.pdf
 
 #####This list
@@ -316,29 +316,39 @@ _Other lists of linguistics journals include_:
 * [GIALens](http://www.gial.edu/gialens/) 
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
 * [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
+* Journal of African Languages and Linguistics
+* [Journal of Chinese Linguistics](http://www.cuhk.edu.hk/journal/jcl/)
+* Journal of East Asian Linguistics
 * [Journal of Historical Syntax](http://elanguage.net/journals/jhs) - ISSN: 2163-6001
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
+* [Journal of Linguistics](http://journals.cambridge.org/action/displayJournal?jid=LIN) - ISSN: 0022-2267 
 * [Journal of Literacy Research](http://jlr.sagepub.com/) - ISSN: 1086-296X
 * [Journal of Mesoamerican Languages and Linguistics](http://elanguage.net/journals/jmll) - ISSN: 1932-44132
+* Journal of Phonetics
 * [Journal of Reading Behavior]
 * [Journal of Research in Reading](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9817) - ISSN: 1467-9817
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
 * [Journal of the Anthropological Society of Oxford-online](http://www.anthro.ox.ac.uk/publications/jaso/) - ISSN: 2040-1876
+* Journal of the International Phonetic Association
+* Journal of West African Languages
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
 * [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
 * [Language](http://www.linguisticsociety.org/lsa-publications/language) -	ISSN: 0097-8507
 * [Language & Communication] - ISSN: 0271-5309
+* Language and Linguistics
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
 * [Language Learning & Technology](http://llt.msu.edu/)
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * Linguistics
 * [Lingua](http://www.journals.elsevier.com/lingua/) - ISSN: 0024-3841
+* Linguistic Inquiry
 * [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
 * [Linguistic Typology] - ISSN: 1430-0532
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
 * [Linguistics in the Netherlands](http://www.jbe-platform.com/content/journals/15699919) - ISSN: 0929-7332
 * [Linguistik online](https://bop.unibe.ch/linguistik-online/) - ISSN: 1615-3014
+* [Logos et Littera: Journal of Interdisciplinary Approaches to Text](http://www.ll.ac.me/)
 * [Marang: Journal of Language and Literature](http://www.ajol.info/index.php/marang) -  ISSN: 1816-7659
 * [Modern Language Journal]
 * [Mon-Khmer Studies] - ISSN:
