@@ -439,8 +439,6 @@ _This section highlights some metadata standards and schemas in common use and w
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
 
 _This section needs some clean up still_
-###OpenData
-
 SPARC: http://www.spark.arl.org/about
 Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
 OER: http://www.sparc.arl.org/theme/open-educational-resources
@@ -449,9 +447,22 @@ Lexicons: http://www.sparc.arl.org/resources/publishing/case-studies/leme
 Data Management Templates: http://scholcomm.columbia.edu/data-management/data-management-plan-templates/
 http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
 
+###Cultural Appropriation
+_As of 19. March 2015 the only licenses we have found to address the issue of Cultural appropriation is the **Free Culture License**. They have some interesting points which may be of concern to various minority language using communities. However, for the sake of context their points will not be conveyed here._
+* http://freeculture.org/about/license/
+
 ###Creative Commons
+[Creative commons](http://creativecommons.org/) is an organization which helps promote open accesss and distribution to creative works using existing legal methods. It provides serveral standard licenses which IP rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
+
+###OpenData
+_OpenData_ requires separate licenses (than creative commons licenses) which legally attempt to provide the same freedoms to data users as creative commons licenses do for other kinds of works. More information is availible from the Open Data Commons. The Open Data Commons is a project of the [Open Knowledge Foundation](https://okfn.org/).
+* http://opendatacommons.org/licenses/
 
 ###Science Commons
+For open license type issues including publications and data in the sciences consider the following communities and resources:
+* http://sciencecommons.org/about/
+  * http://sciencecommons.org/projects/publishing/
+* http://creativecommons.org/science
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
