@@ -438,6 +438,21 @@ _This section highlights some metadata standards and schemas in common use and w
 ###General 
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
 
+_This section needs some clean up still_
+###OpenData
+
+SPARC: http://www.spark.arl.org/about
+Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
+OER: http://www.sparc.arl.org/theme/open-educational-resources
+Open Data: http://www.sparc.arl.org/resources/open-data
+Lexicons: http://www.sparc.arl.org/resources/publishing/case-studies/leme
+Data Management Templates: http://scholcomm.columbia.edu/data-management/data-management-plan-templates/
+http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
+
+###Creative Commons
+
+###Science Commons
+
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
