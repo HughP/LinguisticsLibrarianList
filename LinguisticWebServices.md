@@ -17,11 +17,11 @@ _If you know of something, but wonder if it really fits, open an issue and lets 
 
 ##Services which provide "archiving"
 * [Mukurtu](http://www.mukurtu.org/) - Hosted "archive" meaning material content access via appropiate restrictions.
-* [DuraSpace](http://www.duraspace.org/) - particularly [DuraCloud](http://www.duracloud.org/)
+* [DuraSpace](http://www.duraspace.org/) - particularly [DuraCloud](http://www.duracloud.org/) specializes in hosting small institutional repositories.
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work was started and initiated by Hugh Paterson III. Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 ####Contributors
 * Hugh Paterson III
