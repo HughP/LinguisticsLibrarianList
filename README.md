@@ -434,6 +434,10 @@ _This section highlights some metadata standards and schemas in common use and w
 * [COinS](http://ocoins.info/) - ContextObject in SPAN (COinS)- Embedding Citation Metadata in HTML
 * [SPAR](http://sempublishing.sourceforge.net/)
 
+_Not sure where to put this one_
+* http://core.ac.uk/intro/api
+
+
 ##Intellectual property, rights, and access
 ###General 
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
