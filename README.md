@@ -452,7 +452,7 @@ _As of 19. March 2015 the only licenses we have found to address the issue of Cu
 * http://freeculture.org/about/license/
 
 ###Creative Commons
-[Creative commons](http://creativecommons.org/) is an organization which helps promote open accesss and distribution to creative works using existing legal methods. It provides serveral standard licenses which IP rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
+[Creative commons](http://creativecommons.org/) is an organization which helps promote open accesss and distribution to creative works using existing legal methods. It [provides serveral standard licenses](https://creativecommons.org/choose/) which IP rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
 
 ###OpenData
 _OpenData_ requires separate licenses (than creative commons licenses) which legally attempt to provide the same freedoms to data users as creative commons licenses do for other kinds of works. More information is availible from the Open Data Commons. The Open Data Commons is a project of the [Open Knowledge Foundation](https://okfn.org/).
