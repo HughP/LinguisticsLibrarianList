@@ -454,6 +454,7 @@ Open Data: http://www.sparc.arl.org/resources/open-data
 Lexicons: http://www.sparc.arl.org/resources/publishing/case-studies/leme
 Data Management Templates: http://scholcomm.columbia.edu/data-management/data-management-plan-templates/
 http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
+Datatags: http://datatags.org/
 
 ###Cultural Appropriation
 _As of 19. March 2015 the only licenses we have found to address the issue of Cultural appropriation is the **Free Culture License**. They have some interesting points which may be of concern to various minority language using communities. However, for the sake of context their points will not be conveyed here._
