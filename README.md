@@ -323,6 +323,7 @@ _Other lists of linguistics journals include_:
 * [Journal of Chinese Linguistics](http://www.cuhk.edu.hk/journal/jcl/)
 * Journal of East Asian Linguistics
 * [Journal of Historical Syntax](http://elanguage.net/journals/jhs) - ISSN: 2163-6001
+* Journal of language contact 
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
 * [Journal of Linguistics](http://journals.cambridge.org/action/displayJournal?jid=LIN) - ISSN: 0022-2267 
 * [Journal of Literacy Research](http://jlr.sagepub.com/) - ISSN: 1086-296X
