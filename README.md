@@ -263,7 +263,15 @@ _Other lists of linguistics journals include_:
 * http://www.nehu.ac.in/Announcements/CASJournals/Linguistics.pdf
 
 #####This list
+* African Arts
+* African language review
+* African Language Studies
+* African Languages and Cultures
+* African Languages and Cultures. Supplement
+* African Studies
+* Afrika und Übersee : Sprachen, Kulturen Afrika und Übersee
 * American Anthropologist
+* American Anthropologist, New Series
 * American Ethnologist
 * American Indian Culture and Research Journal
 * American Journal of Sociology
@@ -276,39 +284,56 @@ _Other lists of linguistics journals include_:
 * Anthropology & Education Quarterly
 * Anthropos
 * Applied Linguistics
+* Applied Psycholinguistics
+* Arabic language Islamic and African studies journal: al-Qira’āt
+* Arabica
+* Augmentative and Alternative Communication
 * Australian Journal of Linguistics
 * Australian Review of Applied Linguistics
 * Bantu Studies
+* Beihefte zur Zeitschrift für Eingeborenen-Sprachen
 * Beiträge zur Iranistik
+* Beiträge zur Namenforschung
 * Belgian Journal of Linguistics
 * [BELT – Brazilian English Language Teaching Journal](http://revistaseletronicas.pucrs.br/fo/ojs/index.php/belt) - E-ISSN: 2178-3640
 * [Bible Translator](http://tbt.sagepub.com/)
+* Bijdragen tot de Taal-, Land- en Volkenkunde
 * Bilingual Education and Bilingualism
 * Bilingual Research Journal
 * Bilingual Review
 * Brain and Language
 * British Educational Research Journal
-* Bulletin of the School of Oriental and African Studies
+* Bulletin of the School of Oriental and African Studies, University of London
+* Bulletin of the School of Oriental Studies, University of London
 * Cahiers d'Etudes Africaines
 * Cahiers de Linguistique Asie Orientale
 * [CALICO Journal](http://www.equinoxpub.com/journals/index.php/CALICO) - ISSN: 2056-9017
+* California Linguistic Notes
 * Canadian Journal of Linguistics
 * Canadian Modern Language Review
+* Canberra Anthropology
 * Catalan Journal of Linguistics
+* Chicago studies in ethnomusicology
 * [Chinese as a Second Language Research](http://www.degruyter.com/view/j/caslar) - ISSN: 2193-2271
 * [Chinese Journal of Applied Linguistics](http://www.degruyter.com/view/j/cjal) - ISSN: 2192-9513
+* Cognition
 * Cognition and language
 * Communication
 * Communication Quarterly
 * Communication Theory
 * Computational Linguistics
 * Computer Assisted Language Learning
+* Computer Communications
 * Computer Speech & Language
+* Computers and Composition
 * Concentric: Studies in Linguistics
 * [Constructions](http://elanguage.net/journals/constructions)
 * Corpus Linguistics and Linguistic Theory
+* Critical Studies in Mass Communication
 * Cultural Studies Review
+* Cultural Survival Quarterly
 * Current Anthropology
+* Current approaches to African linguistics
 * Current Issues In Language and Society
 * Current Issues in Language Planning
 * [Diachronica](https://benjamins.com/#catalog/journals/dia/main) - ISSN: 0176-4225
@@ -317,106 +342,301 @@ _Other lists of linguistics journals include_:
 * [Dialectologia et Geolinguistica](http://www.degruyter.com/view/j/dig) - ISSN: 1867-0903
 * [Dialogue & Discourse](http://elanguage.net/journals/dad) - ISSN: 2152-9620
 * Die Unterrichtspraxis / Teaching German
+* Discourse Processes
+* Electronic Journal of Foreign Language Teaching
+* Elementary English
 * [English Language Teaching](http://www.ccsenet.org/journal/index.php/elt) - ISSN: 1916-4742
-* [English Language and Linguistics]() - ISSN: 1360-6743 
+* [English Language and Linguistics]() - ISSN: 1360-6743
+* English in Education
+* English Today
+* Ethnohistory
+* Ethnological Survey Publications
+* Ethnology
+* Ethnomusicology
+* Ethnomusicology Review
+* European Journal of Language Policy
 * [European Journal of Scandinavian Studies](http://www.degruyter.com/view/j/ejss) - ISSN: 2191-9402
 * [Folia Linguistica](http://www.degruyter.com/view/j/flin) - ISSN: 1614-7308
+* Folia lingüística histórica
+* Folklore
+* Folklore Studies
+* Foreign Language Annals
+* Forensic Linguistics
+* Foundations of Language
+* Functional Linguistics
+* GEMA Online Journal of Language Studies
+* General Linguistics
+* Gesture
 * [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
+* [GIALens](http://www.gial.edu/gialens/)
 * [Global Chinese](http://www.degruyter.com/view/j/glochi) - ISSN: 2199-4382 
-* [GIALens](http://www.gial.edu/gialens/) 
+* Glot International
+* GLOW Newsletter
+* GMU Working Papers in Linguistics
+* Harvard Journal of Asiatic Studies
+* Himalayan Linguistics
+* Historiographia Linguistica
+* Hungarian Studies
+* IEEE Transactions on Audio, Speech, and Language Processing
+* Information, Communication & Society
 * [International Journal of American Linguistics](http://www.press.uchicago.edu/ucp/journals/journal/ijal.html) - ISSN: 0020-7071
+* International Journal of Applied Linguistics
+* International Journal of Asian Language Processing
+* International Journal of Bilingual Education and Bilingualism
+* International Journal of Cultural Studies
+* International Journal of English Linguistics
+* International Journal of Heritage Studies
 * [International Journal of Learner Corpus Research](http://www.jbe-platform.com/content/journals/22151486) - ISSN: 2215-1478
+* International Journal of Lexicography
+* International Journal of Multilingualism
+* International Journal of Sociology of the Family
+* International Journal of Speech Language and the Law
+* International Journal of the Sociology of Language
+* International Journal on Asian Language Processing
+* International Journal on Multicultural Societies
+* International Migration Review
+* Investigaciones Lingüísticas
 * [Jahrbuch für Germanistische Sprachgeschichte](http://www.degruyter.com/view/j/jbgsg) - ISSN: 1869-7046
 * [Journal for Language Teaching](http://www.ajol.info/index.php/jlt) - ISSN: 0259-9570
 * [Journal of African Languages and Linguistics](http://www.degruyter.com/view/j/jall) - ISSN: 1613-3811
+* Journal of American Indian Education
+* Journal of Arabic and Islamic Studies
+* Journal of Asian Studies
+* Journal of Austronesian Studies
+* Journal of California and Great Basin Anthropology
+* Journal of Child Language
+* Journal of Chinese Information Processing
+* Journal of Chinese Language and Computing (International Journal of Asian Language Processing)
 * [Journal of Chinese Linguistics](http://www.cuhk.edu.hk/journal/jcl/)
+* Journal of Communication Disorders
+* Journal of Comparative Germanic Linguistics
+* Journal of Computer-Mediated Communication
+* Journal of Developmental Reading
+* Journal of Early Childhood Literacy
 * [Journal of East Asian Linguistics]
 * [Journal of English as a Lingua Franca](http://www.degruyter.com/view/j/jelf) - ISSN: 2191-933X
+* Journal of English Linguistics
+* Journal of Ethiopian Studies
+* Journal of French Language Studies
 * [Journal of Historical Sociolinguistics](http://www.degruyter.com/view/j/jhsl) - ISSN: 2199-2908
 * [Journal of Historical Syntax](http://elanguage.net/journals/jhs) - ISSN: 2163-6001
+* Journal of Igbo Language & Linguistics
+* Journal of Intercultural Communication Research
+* Journal of Language and Linguistics
+* Journal of Language and Social Psychology
 * [Journal of language contact]
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
 * [Journal of Latin Linguistics](http://www.degruyter.com/view/j/joll) - ISSN: 2194-8747 
-* [Journal of Linguistics](http://journals.cambridge.org/action/displayJournal?jid=LIN) - ISSN: 0022-2267 
+* Journal of Linguistic and Intercultural Education
+* Journal of linguistic anthropology
+* [Journal of Linguistics](http://journals.cambridge.org/action/displayJournal?jid=LIN) - ISSN: 0022-2267
+* Journal of Literacy and Technology
 * [Journal of Literacy Research](http://jlr.sagepub.com/) - ISSN: 1086-296X
+* Journal of Memory and Language
 * [Journal of Mesoamerican Languages and Linguistics](http://elanguage.net/journals/jmll) - ISSN: 1932-44132
+* Journal of Multilingual and Multicultural Development
+* Journal of Near Eastern Studies
+* Journal of Neurolinguistics
 * Journal of Phonetics
+* Journal of Pidgin and Creole Languages
+* Journal of Pragmatics
+* Journal of Psycholinguistic Research
+* Journal of Quantitative Linguistics
 * [Journal of Reading Behavior]
+* Journal of Religion in Africa
 * [Journal of Research in Reading](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9817) - ISSN: 1467-9817
 * [Journal of Second Language Teaching & Research](http://pops.uclan.ac.uk/index.php/jsltr/index) - ISSN: 2045-4031
+* Journal of Second Language Writing
+* Journal of Sociolinguistics
+* Journal of Speech and Hearing Disorders
+* Journal of Speech and Hearing Research
+* Journal of Speech, Language, and Hearing Research
+* Journal of the American Academy of Audiology
+* Journal of the American Oriental Society
 * [Journal of the Anthropological Society of Oxford-online](http://www.anthro.ox.ac.uk/publications/jaso/) - ISSN: 2040-1876
+* Journal of the Ethnological Society of London (1848-1856)
+* Journal of the International Folk Music Council
 * Journal of the International Phonetic Association
+* Journal of the Linguistic Association of Nigeria
+* Journal of the Musical Arts in Africa
+* Journal of the Southeast Asian Linguistics Society
+* Journal of Translation
+* Journal of Verbal Learning and Verbal Behavior
 * Journal of West African Languages
+* Journal of Voice
+* Journal on Ethnopolitics and Minority Issues in Europe
 * [Kioo cha Lugha](http://www.ajol.info/index.php/kcl) - ISSN: 0856-552X
 * [Kiswahili](http://www.ajol.info/index.php/ksh) - ISSN: 0023-1886
+* Kivung
+* Kritika Kultura
+* La Linguistique
 * [Language](http://www.linguisticsociety.org/lsa-publications/language) -	ISSN: 0097-8507
 * [Language & Communication](http://www.journals.elsevier.com/language-and-communication) - ISSN: 0271-5309
+* Language and Cognitive Processes
+* Language and Computers
+* Language and Education
 * Language and Linguistics
+* Language and Linguistics in Melanesia
+* Language and Linguistics in Oceania
+* Language and Speech
+* Language Awareness
+* Language Design
 * [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) - E-ISSN: 1934-5275
+* Language Documentation and Description
+* Language in India
+* Language in Society
+* Language Information
+* Language Learning
 * [Language Learning & Technology](http://llt.msu.edu/)
 * [Language Policy](http://www.springer.com/education+%26+language/linguistics/journal/10993) - ISSN:	1568-4555
+* Language Problems & Language Planning
+* Language Research
+* Language Resources & Evaluation
+* Language Sciences
 * [Language Teaching](http://journals.cambridge.org/action/displayJournal?jid=LTA) - ISSN: 0261-4448 _(Formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))_
+* Language Testing
+* Language Variation and Change
+* Language, Culture and Curriculum
+* Language@Internet
+* Le Maître Phonétique
 * [Lexicographica](http://www.degruyter.com/view/j/lexi) - ISSN: 1865-9403
+* Lexicography
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
+* LINCOM studies in Asian linguistics
 * [Linguistics](http://www.degruyter.com/view/j/ling) - ISSN: 
 * [Lingua](http://www.journals.elsevier.com/lingua/) - ISSN: 0024-3841
 * [Linguaculture](http://www.degruyter.com/view/j/lincu) - ISSN: 2067-9696
 * Linguistic Inquiry
-* [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
-* [Linguistic Typology] - ISSN: 1430-0532
 * [Linguistic Issues in Language Technology](http://elanguage.net/journals/lilt/) - ISSN: 1945-3604
+* [Linguistic Discovery](http://linguistic-discovery.dartmouth.edu/) - ISSN: 1537-0852
+* Linguistic Notes from La Jolla
+* Linguistic Portfolios
+* Linguistic Review
+* [Linguistic Typology] - ISSN: 1430-0532
+* Linguistics in Potsdam
 * [Linguistics in the Netherlands](http://www.jbe-platform.com/content/journals/15699919) - ISSN: 0929-7332
+* Linguistics of the Tibeto-Burman Area
 * [Linguistik online](https://bop.unibe.ch/linguistik-online/) - ISSN: 1615-3014
+* Lingvisticae Investigationes
+* Literary and Linguistic Computing
 * [Lodz Papers in Pragmatics](http://www.degruyter.com/view/j/lpp) - ISSN: 1898-4436
 * [Logos et Littera: Journal of Interdisciplinary Approaches to Text](http://www.ll.ac.me/)
 * [Marang: Journal of Language and Literature](http://www.ajol.info/index.php/marang) -  ISSN: 1816-7659
+* Middle East Journal of Culture and Communication
+* Mind & Language
 * [Modern Language Journal]
+* Modern Language Notes
+* Moderne Dialekte – Neue Dialektologie
 * [Mon-Khmer Studies] - ISSN:
+* Morphology
 * [MSU Working Papers in Second Language Studies](http://sls.msu.edu/soslap/journal/index.php/sls/index)
+* Nationalism and Ethnic Politics
 * [Natural Language & Linguistic Theory] - ISSN: 0167-806X
 * [Natural Language Engineering] - ISSN: 1469-8110
+* New Zealand English Journal
 * [Nordic Journal of African Studies] - ISSN:
+* Nordlyd (Tromsø University Working Papers on Language and Linguistics)
+* Notes on Linguistics
+* Notes on Literacy
+* Notes on Sociolinguistics
 * [Oceania] - ISSN: 0029-8077
 * [Oceanic Linguistics](http://www.uhpress.hawaii.edu/t-oceanic-linguistics.aspx) - E-ISSN: 1527-9421
+* OGMIOS
+* Online Journal of Language Studies
 * [Open Linguistics](http://www.degruyter.com/view/j/opli) - ISSN: 2300-9969
+* Oral Tradition
 * [Papers on Language & Literature](http://www.siue.edu/PLL/) - ISSN:	0031-1294
+* Per Linguam: a Journal of Language Learning = Per Linguam : Tydskrif vir Taalaanleer
 * [Philippine Journal for Language Teaching] - ISSN:
+* Philippine Journal of Education
 * [Philippine Journal of Linguistics](http://www.dlsu.edu.ph/inside/organizations/lsp/journal.asp) - ISSN: 0048-3796
 * [Phonetica](http://www.karger.com/Journal/Home/224275) - ISSN: 0031-8388
-* [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757
+* Phonological Studies
+* [Phonology](http://journals.cambridge.org/action/displayJournal?jid=PHO) - ISSN: 0952-6757 Was previously _Phonology Yearbook_
+* Plains Anthropologist
 * [Poznan Studies in Contemporary Linguistics](http://www.degruyter.com/view/j/psicl) - ISSN: 1897-7499
 * [Pragmatics](http://elanguage.net/journals/pragmatics) - ISSN: 1018-2101 _Formerly IPrA PAPERS in PRAGMATICS._
 * [Prague Journal of English Studies](http://www.degruyter.com/view/j/pjes) - ISSN: 2336-2685
+* Reading & Writing Quarterly
 * [Reading and Writing](http://link.springer.com/journal/11145) - ISSN: 0922-4777
 * [Reading in a Foreign Language](http://nflrc.hawaii.edu/rfl/) - ISSN: 1539-0578
+* Reading Matrix: An International Online Journal
+* Reading Research Quarterly
 * Reading World
+* ReCALL
+* Research in African Literatures
+* Research in Language
+* Research in Yorùbá Languages and Literature
+* Reviews in Anthropology
+* Revue Roumaine de Linguistique
 * [Romanian Journal of English Studies](http://www.degruyter.com/view/j/rjes) - ISSN: 1584-3734
+* Scottish Gaelic Studies
+* Second Language Research
 * [Second Language Studies](http://www.hawaii.edu/sls/research/publications/sls-papers/) - Bi-annual publication of the Department of Second Language Studies at the University of Hawaii Mānoa.
+* [Semantics and Pragmatics](http://www.linguisticsociety.org/content/semantics-and-pragmatics) - 
 * [Semiotica](http://www.degruyter.com/view/j/semi) - ISSN: 1613-3692
+* Sign Language & Linguistics
 * [Sign Language Studies](http://gupress.gallaudet.edu/SLS.html) - ISSN:
+* SIL Electronic Survey Report
+* SIL Electronic Working Papers
+* SIL Forum for Language Fieldwork
+* SIL-Mexico Working Papers
 * [SKY Journal of Linguistics] - ISSN:
 * [Sociolinguistica](http://www.degruyter.com/view/j/soci) - ISSN: 1865-939X
 * [South African Journal of African Languages](http://www.ajol.info/index.php/sajal) - ISSN: 0257-2117
 * [South East Asian Studies] - ISSN:
 * [Southern African Linguistics and Applied Language Studies](http://www.ajol.info/index.php/salas) -  ISSN: 1607-3614
+* Southwest Journal of Linguistics
+* Speech and Language Technology
 * [Speech Communication] - ISSN: 0167-6393
-* [Semantics and Pragmatics](http://www.linguisticsociety.org/content/semantics-and-pragmatics) - 
+* Statistical Methods in Linguistics
+* Status Report on Speech Research
 * [Studia Linguistica] - ISSN: 1467-9582
 * [Studies in African Linguistics](http://elanguage.net/journals/sal) - ISSN: 00390-3533
 * [Studies in English Language Teaching](http://www.scholink.org/ojs/index.php/selt)  - ISSN: 2372-9740
 * [Studies in Language](https://benjamins.com/#catalog/journals/sl/main) - ISSN: 0378–4177
+* Studies in Linguistics
 * [Studies in Philippine Languages and Cultures] 
 * [Studies in Philippine Linguistics] - ISSN: 
 * [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
+* Studies in the Linguistic Sciences
+* STUF – Language Typology and Universals
+* Taiwan Journal of Linguistics
+* Takesi Sibata: Sociolinguistics in Japanese contexts
+* Target: International Journal on Translation Studies
+* TESOL Quarterly
+* The International Journal of Language Society and Culture
+* The Journal of the Acoustical Society of America
+* The Journal of the American Oriental Society
+* The Journal of the Burma Research Society
+* The Language Learning Journal
+* The Linguistic Review
+* The Modern Language Journal
+* The Modern Language Review
+* The Mon-Khmer Studies Journal
+* The Philippine Journal of Science
+* The Slavic and East European Journal
 * [Theoretical Linguistics](http://www.degruyter.com/view/j/thli) - ISSN: 1613-4060
 * [Toronto Working Papers in Linguistics] - ISSN: 
-* [University of Pennsylvania Working Papers in Linguistics] - ISSN: 
+* UCLA Occasional Papers in Linguistics
+* UCLA Working Papers in Linguistics
+* UCLA Working Papers in Phonetics
+* University of British Columbia Working Papers in Linguistics
+* [University of Pennsylvania Working Papers in Linguistics] - ISSN:
+* University of Rochester Working Papers in the Language Sciences
 * [Word: journal of the Linguistic Circle of New York]
+* Work Papers of the Summer Institute of Linguistics, University of North Dakota Session
+* Working Papers in Educational Linguistics
+* Working Papers in Linguistics, Department of Linguistics University of Hawai‘i at Mânoa
+* Working Papers of the Cornell Phonetics Laboratory
+* Working Papers of the Linguistics Circle of the University of Victoria
+* Work papers in Indonesian Languages and Cultures
 * [World Englishes]
 * [Writing Systems Research](http://www.tandfonline.com/toc/pwsr20/current) - ISSN: 1758-6801
 * [Written Communication]
 * [Written Language & Literacy](https://benjamins.com/#catalog/journals/wll/main) - ISSN: 1387-6732
+* ZAS Working Papers in Linguistics
 * [Zeitschrift fur germanistische linguistik](http://www.degruyter.com/view/j/zfgl) - ISSN: 1613-0626
 * [Zeitschrift für Bevölkerungswissenschaft]
 * [Zeitschrift für Dialektologie und Linguistik]
