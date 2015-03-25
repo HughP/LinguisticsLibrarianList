@@ -163,6 +163,7 @@ _These tools are designed to easily present visual interactions with archived co
 * SayMore - Organizes content during collection and creates a submission package
 * [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
 * Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
+* JHOVE - http://openpreservation.org/technology/products/jhove/
 
 ####File Management
 _Tools for working with files._
@@ -171,6 +172,11 @@ _Tools for working with files._
 ####Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
 * [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
+
+####Extracting Metadata
+* Metadata Extraction Tool: http://sourceforge.net/projects/meta-extractor/
+* DCEditor http://sourceforge.net/projects/dceditor/
+* Xena http://xena.sourceforge.net/
 
 ###Open Community Software groups
 * [Intersect Australia](http://www.intersect.org.au/)
