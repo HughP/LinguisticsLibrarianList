@@ -156,14 +156,17 @@ _These tools are designed to easily present visual interactions with archived co
 * [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
 * [Mukurtu](http://www.mukurtu.org/) - A Drupal 7 profile for managing content presented to communities. See [review 1](http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/24610/shepard.pdf?sequence=1) & [review 2](http://digitalreturn.wsu.edu/presentation/mukurtu-an-indigenous-archive-tool/)
 * [PeerLibrary](https://github.com/peerlibrary/peerlibrary) - Is a interactive layer on top of PDFs which allow for interactive discourse over printed literature.
-* [SCIENTIfic coLLaborative Archive](https://github.com/scientilla/scientilla) Peer distributed network of metadata. Find out more on http://www.scientilla.net/ 
+* [SCIENTIfic coLLaborative Archive](https://github.com/scientilla/scientilla) Peer distributed network of metadata. Find out more on http://www.scientilla.net/
+* [EOPAS](https://github.com/eopas/eopas) - Ethnographic E-Research Online Presentation System (EOPAS) for Interlinear Text ([see it in action](http://www.eopas.org/))
 
 ####Submission managers
 * RAMP - created as a client side submission manager for submissions to DSpace.
-* SayMore - Organizes content during collection and creates a submission package
+* [SayMore](http://saymore.palaso.org/) - Organizes content during collection and creates a submission package
 * [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
 * Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
-* JHOVE - http://openpreservation.org/technology/products/jhove/
+* [JHOVE](http://jhove.sourceforge.net/) - http://openpreservation.org/technology/products/jhove/
+* [CMDI Maker](http://cmdi-maker.uni-koeln.de/)
+* [Arbil](https://tla.mpi.nl/tools/tla-tools/arbil/)
 
 ####File Management
 _Tools for working with files._
