@@ -132,7 +132,7 @@ of the American Library Association
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
 _These tools are designed to do digital object and associated metadata management._
-* [EPrints](http://www.eprints.org/uk/) [EPrints Bazzar](http://bazaar.eprints.org/)(plugins)
+* [EPrints](http://www.eprints.org/uk/) - [EPrints Bazzar](http://bazaar.eprints.org/)(plugins)
 * [DSpace](http://www.dspace.org/)
 * [Fedora](http://fedorarepository.org/)
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content management, and Drupal for custom content presentations.
@@ -180,6 +180,9 @@ _Enriching files according to the best practices outlined in the [Embedded Metad
 * Metadata Extraction Tool: http://sourceforge.net/projects/meta-extractor/
 * DCEditor http://sourceforge.net/projects/dceditor/
 * Xena http://xena.sourceforge.net/
+
+####Working with DCMI Metadata
+* [Tools Group](http://dublincore.org/groups/tools/)
 
 ###Open Community Software groups
 * [Intersect Australia](http://www.intersect.org.au/)
