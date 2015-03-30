@@ -27,12 +27,10 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 ####Networks
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the USA library of congress. Audio professionals of various kinds are on this list, including professional digitizers, professionals working in the recording industry, and archivists and audio collection curators for radio broadcasters.
 * [Audio Engineering Society](http://www.aes.org/) - This society provides scientific documentation for digital audio, in addition to several relevant specifications for digitizing audio and maintaining metadata. [Citations are maintained in a separate list](/AESCitations.md).
-* [Audio Preservation](http://cool.conservation-us.org/bytopic/audio/) - COoL PARS Recording and Photographic Media Committee 
-of the American Library Association
+* [Audio Preservation](http://cool.conservation-us.org/bytopic/audio/) - COoL PARS Recording and Photographic Media Committee of the American Library Association
+* [CDP](http://www.cdpheritage.org) - Colorado Digitization Program Digital Audio Working Group, CDP started out with the name Colorado Digitization Project, then in 2004 became the Collaborative Digitization Program. It is a collaborative effort between institutions (universities and museums) in the Western United States to support their mandates to provide access to and preserve their audio collections.
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
-* [CDP](http://www.cdpheritage.org) - Colorado Digitization Program Digital Audio Working Group, CDP started out with the name Colorado Digitization Project, then in 2004 became the Collaborative Digitization Program. It is a collaborative effort between institutions (universities and museums) in the Western United States to support their mandates to provide access to and preserve their audio collections.
-
 
 ####Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
@@ -54,12 +52,12 @@ of the American Library Association
 ##Resources for video curation and digitization
 
 ####Networks
-* [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
-* [AMIA](http://www.amianet.org/about/mission) - Association of Moving Image Archivists
 * [AMIA-L](http://www.amianet.org/participate/listserv.php) - Mailing list for Association of Moving Image Archivists
-* [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
-* [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
+* [AMIA](http://www.amianet.org/about/mission) - Association of Moving Image Archivists
 * [Ethnodoc](http://www.ethnodoc.org/)
+* [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
+* [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
+* [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
 
 ####Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handeling.
@@ -88,7 +86,7 @@ of the American Library Association
 * [American Society of Media Photographers](https://asmp.org/) - Society of professional photographers
 
 ####Best practices
-* [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handeling.
+* [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handling.
 * [dpbestflow.org](http://dpbestflow.org/) - Digital Photography Best Practices and Workflow project. Creates guidelines for refined production workflows, archiving methods, and best practices for digital photography based on a variety of capture methods and intended image use.
 
 ####Services
@@ -105,12 +103,12 @@ of the American Library Association
 ##Resources for linguistic cartography and maps
 
 ####Projects and products
-* [LinguistList Maps](http://llmap.org/) - _llmap.org_ was and is a LinguistList project for displaying existing maps in a large variety of publications as layers in a geobrowser. This project like many others was disrupted in the LinguistList transition from Michigan to hosting the LinguistList in Indiana. Contact the current hosts for further details.
 * [Ethnologue Maps](http://www.ethnologue.com/browse/maps) - Maps may be purchased from the Ethnologue, some may be visible online. Link to an index of maps.
+* [Langscape](http://ling.umd.edu/~colin/wordpress/?page_id=110) - A project for geobrowsing language data from the University of Maryland. It uses the WLMS product as it's base layer as of 2014.
+* [LinguistList Maps](http://llmap.org/) - _llmap.org_ was and is a LinguistList project for displaying existing maps in a large variety of publications as layers in a geobrowser. This project like many others was disrupted in the LinguistList transition from Michigan to hosting the LinguistList in Indiana. Contact the current hosts for further details.
+* [UNESCO Atlas of the World's Languages in Danger](http://www.unesco.org/languages-atlas/) 
 * [World Language Mapping System](http://www.worldgeodatasets.com/language/) - _World Language Mapping System_ Is a collaborative data publication between SIL International and [GMI (Global Mapping International)](http://www.gmi.org/). Most of the shape files from the Ethnologue's maps are included. They are usually updated following the most recent update of the Ethnologue.
 * [World Language Phyla/Family Mapping](http://www.worldgeodatasets.com/language/huffman/?pathinfo=products/gis/wlms/sample-maps/huffman/) - A set of global maps using the WLMS product but with language family arrangement by Dr. Stephen Huffman.
-* [Langscape](http://ling.umd.edu/~colin/wordpress/?page_id=110) - A project for geobrowsing language data from the University of Maryland. It uses the WLMS product as it's base layer as of 2014.
-* [UNESCO Atlas of the World's Languages in Danger](http://www.unesco.org/languages-atlas/) 
 
 ####Journals
 * Dialectologia et Geolinguistica
@@ -132,11 +130,12 @@ of the American Library Association
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
 _These tools are designed to do digital object and associated metadata management._
-* [EPrints](http://www.eprints.org/uk/) - [EPrints Bazzar](http://bazaar.eprints.org/)(plugins)
+
+* [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [DSpace](http://www.dspace.org/)
+* [EPrints](http://www.eprints.org/uk/) - [EPrints Bazaar](http://bazaar.eprints.org/)(plugins)
 * [Fedora](http://fedorarepository.org/)
 * [Islandora](http://islandora.ca/) - This is a middleware product which sits between Fedora for content management, and Drupal for custom content presentations.
-* [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [Nabu](https://github.com/nabu-catalog/nabu) - nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items.
 
 
@@ -149,24 +148,24 @@ _There are currently no known journal management systems which have an indexing 
 * Some journals like _[Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)_ use WordPress. It is imagined that some journals also might try and use Drupal.
 
 ####Digital showcases or display environments
-_These tools are designed to easily present visual interactions with archived collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *dispaly envirments* pull data from repositories and create interactions with it._
-* [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data. [On Github](https://github.com/omeka/Omeka)
-* [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
+_These tools are designed to easily present visual interactions with archived collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *display environments* pull data from repositories and create interactions with it._
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
-* [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
-* [Mukurtu](http://www.mukurtu.org/) - A Drupal 7 profile for managing content presented to communities. See [review 1](http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/24610/shepard.pdf?sequence=1) & [review 2](http://digitalreturn.wsu.edu/presentation/mukurtu-an-indigenous-archive-tool/)
-* [PeerLibrary](https://github.com/peerlibrary/peerlibrary) - Is a interactive layer on top of PDFs which allow for interactive discourse over printed literature.
-* [SCIENTIfic coLLaborative Archive](https://github.com/scientilla/scientilla) Peer distributed network of metadata. Find out more on http://www.scientilla.net/
 * [EOPAS](https://github.com/eopas/eopas) - Ethnographic E-Research Online Presentation System (EOPAS) for Interlinear Text ([see it in action](http://www.eopas.org/))
+* [Mukurtu](http://www.mukurtu.org/) - A Drupal 7 profile for managing content presented to communities. See [review 1](http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/24610/shepard.pdf?sequence=1) & [review 2](http://digitalreturn.wsu.edu/presentation/mukurtu-an-indigenous-archive-tool/)
+* [Omeka](http://omeka.org/) - This is a CMS much like WordPress but specifically designed for digital museum displays and dealing with catalogue data. [On Github](https://github.com/omeka/Omeka)
+* [PeerLibrary](https://github.com/peerlibrary/peerlibrary) - Is a interactive layer on top of PDFs which allow for interactive discourse over printed literature.
+* [Scalar](http://scalar.usc.edu/scalar/) - Scalar is a CMS which allows users to create different "pathways" (in the sense that museums have pathways through displays) through content for learning.
+* [SCIENTIfic coLLaborative Archive](https://github.com/scientilla/scientilla) Peer distributed network of metadata. Find out more on http://www.scientilla.net/
+* [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
 
 ####Submission managers
-* RAMP - created as a client side submission manager for submissions to DSpace.
-* [SayMore](http://saymore.palaso.org/) - Organizes content during collection and creates a submission package
-* [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
-* Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
-* [JHOVE](http://jhove.sourceforge.net/) - http://openpreservation.org/technology/products/jhove/
-* [CMDI Maker](http://cmdi-maker.uni-koeln.de/)
 * [Arbil](https://tla.mpi.nl/tools/tla-tools/arbil/)
+* [CMDI Maker](http://cmdi-maker.uni-koeln.de/)
+* [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
+* [JHOVE](http://jhove.sourceforge.net/) - http://openpreservation.org/technology/products/jhove/
+* [SayMore](http://saymore.palaso.org/) - Organizes content during collection and creates a submission package
+* Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
+* RAMP - created as a client side submission manager for submissions to DSpace.
 
 ####File Management
 _Tools for working with files._
@@ -192,19 +191,19 @@ _Enriching files according to the best practices outlined in the [Embedded Metad
 ##Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
 ####Aggregators and index(ing) products
-* [OLAC](http://search.language-archives.org/index.html) - An aggregation of resource from a variety of archives.
-* [Glottolog](http://glottolog.org/) - Listings of several bibliographies in a web interface
-* [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
-* [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
-* [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
-* Blackwell's Linguistics Abstracts Online
-* [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
-* [Web of Science](http://thomsonreuters.com/en/products-services/scholarly-scientific-research/scholarly-search-and-discovery/web-of-science.html) - Thomson Reuters index product
-* [Academic Search Premier](http://www.ebscohost.com/ACADEMIC/academic-search-premier) - EBSCOhost index product
-* [ERIC (Education)](http://eric.ed.gov/) - US government portal to archived resources. (Free open use).
-* PsycINFO
-* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused portal, not just linguistics and language based content.) Most if not all are Open Access.
 
+* [Academic Search Premier](http://www.ebscohost.com/ACADEMIC/academic-search-premier) - EBSCOhost index product
+* [African Journals Online (AJOL)](http://www.ajol.info/) - the world's largest and pre-eminent collection of peer-reviewed, African-published scholarly journals. (Regionally focused portal, not just linguistics and language based content.) Most if not all are Open Access.
+* [ERIC (Education)](http://eric.ed.gov/) - US government portal to archived resources. (Free open use).
+* [Glottolog](http://glottolog.org/) - Listings of several bibliographies in a web interface
+* [Linguistic Bibliography](http://bibliographies.brillonline.com/browse/linguistic-bibliography) - Curated list of linguistics articles separated out several ways, one way is by subject language.
+* [LLBA](http://proquest.libguides.com/llba) - Abstracts and indexes the international literature in linguistics and related disciplines in the language sciences. - _Targeted as a library resource_
+* [MLA International Bibliography](http://www.mla.org/bibliography) - indexes critical materials about all literatures (except classical Greek and Roman), languages, folklore and film.
+* [OLAC](http://search.language-archives.org/index.html) - An aggregation of resource from a variety of archives.
+* [ProQuest Dissertations & Theses Database](http://www.proquest.com/products-services/pqdt.html) - Repository of thesis and dissertations. The host institutions of many linguistics programs in the USA participate in ProQuest.
+* [Web of Science](http://thomsonreuters.com/en/products-services/scholarly-scientific-research/scholarly-search-and-discovery/web-of-science.html) - Thomson Reuters index product
+* Blackwell's Linguistics Abstracts Online
+* PsycINFO
 
 ####Special purpose repositories
 * [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Aggregated in OLAC**
@@ -219,40 +218,40 @@ _These publishers have significant portions of their businesses which focus on a
 * http://linguistlist.org/pubs/publishers.cfm
 
 #####This list
-* Acta Universitatis Upsaliensis
+* [Acta Universitatis Upsaliensis]
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
 * [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com) - see [keyword for linguistics](http://www.bloomsbury.com/uk/search?q=linguistics&Gid=1)
 * [Brill](http://www.brill.nl)
-* [Cambridge University Press](http://us.cambridge.org)
 * [Cambridge Scholars Publishing](http://www.cambridgescholars.com) - see [keyword for linguistics](http://www.cambridgescholars.com/Linguistics)
+* [Cambridge University Press](http://us.cambridge.org)
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
 * [Classiques Garnier](http://www.classiques-garnier.com/) - offers to universities, public, private and research libraries online access to databases in the fields of literature and the humanities.
-* Dr. Ludwig Reichert Verlag
+* [Dr. Ludwig Reichert Verlag]
 * [Edinburgh University Press](http://www.euppublishing.com) - see [keyword for linguistics](http://www.euppublishing.com/page/LanguageLinguistics)
 * [ELSEVIER](http://www.elsevier.com/)
-* Equinox Publishing Ltd.
+* [Equinox Publishing Ltd.]
 * [European Language Resources Association (ELRA)](http://portal.elda.org/en/)
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * [John Benjamins](http://www.benjamins.com/)
-* Karger
-* [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
+* [Karger
 * [Lincom GmbH](http://www.lincom-shop.eu/)
-* [Mouton De Gruyter](http://www.degruyter.com/)
+* [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
 * [MIT Press](http://mitpress.mit.edu/)
+* [Mouton De Gruyter](http://www.degruyter.com/)
 * [Multilingual Matters / Channel View Publications](http://www.multilingual-matters.com/)
 * [Oxford University Press](https://global.oup.com/academic/?cc=us&lang=en&)
-* Pacific Linguistics
+* [Pacific Linguistics]
 * [Palgrave Macmillan](http://www.palgrave.com/) - see [keyword for linguistics](http://www.palgrave.com/page/results/?STEM=true&SF1=kword_index%252Cidentifier&SORT=mat_rank_us%252Fd&SF99=lang_toggle&ST99=us&ST1=linguistics)
 * [Peter Lang AG](http://www.peterlang.com/) - see [keyword for linguistics](http://www.peterlang.com/index.cfm?cid=187&discipline=206#6791060)
 * [Routledge](http://www.routledge.com/)
 * [Rüdiger Köppe Verlag](http://www.koeppe.de/index.php)
-* Sage Publishing
+* [Sage Publishing]
 * [SIL International](http://www.sil.org/resources/publications/about)
-* Taylor & Francis Group
+* [Taylor & Francis Group]
 * [University of Arizona Press](http://www.uapress.arizona.edu/catalogs/index.php) - Publishes various regional, anthropological, and linguistic works.
+* [University of Hawai'i Press]
 * [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - Publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
-* [University of Hawai'i Press]
 
 ##Major content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products provided to via subscription to institutions._
@@ -658,15 +657,15 @@ _Other lists of linguistics journals include_:
 * [Zeitschrift für Sprachwissenschaft](http://www.degruyter.com/view/j/zfsw) - ISSN: 1613-3706
 
 ##Organizations of interests in the archiving and preservation sphere (for linguistics and technical focus)
+*  [British Library](http://www.bl.uk/) - The British Library in England and the UK serves a similar function as organizations like the Smithsonian or the Library of Congress in the United States. They have a keen interest in helping other organizations to preserve or digitize their collections, as evidenced through their grant programs. They also have experience in digitizing their own collections.
 *  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
 *  [JISC](http://www.jisc.ac.uk/) - (Formerly the Joint Information Systems Committee.) A registered UK charity which champions the use of digital technologies in UK education and research. They have an active role in preservation and metadata developments. [See more on Wikipedia](http://en.wikipedia.org/wiki/Jisc).
 *  [Library of Congress (U.S.)](http://www.loc.gov/standards/) - The Library of Congress has extensive audio collections and is involved in many digitization projects. They host the ARSC mailing list which is a network of audio library curators and digitization specialists.  They also host several resources on standards for archiving and describing collections. 
-*  [British Library](http://www.bl.uk/) - The British Library in England and the UK serves a similar function as organizations like the Smithsonian or the Library of Congress in the United States. They have a keen interest in helping other organizations to preserve or digitize their collections, as evidenced through their grant programs. They also have experience in digitizing their own collections.
-* [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
 * [CDP](http://www.cdpheritage.org) - Colorado Digitization Program Digital Audio Working Group, CDP started out with the name Colorado Digitization Project, then in 2004 became the Collaborative Digitization Program. It is a collaborative effort between institutions (universities and museums) in the Western United States to support their mandates to provide access to and preserve their audio collections.
 * [European Broadcast Union](http://www3.ebu.ch/home) - The EBU sets standards for data interoperability within the EU for data used within their domain (radio, audio transmissions, etc). As such they are a key stakeholder and decision maker for digital audio formats.
-* [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
+* [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
+* [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
 
 ##General archival organizations of interest
 * [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)

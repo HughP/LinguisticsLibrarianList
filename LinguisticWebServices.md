@@ -1,22 +1,22 @@
 #Linguistics and language oriented web services
 ###Purpose
-_This list specifically focusus on web services for interacting with linguistic data. By this we mean the business sense of service, rather than the computational sense of a service running on a server machine. Obviously though these business services might also run computational services which might be specialized applications for dealing with linguistic data. By interacting we mean the collaborative (multi human user) co-creation or co-development of corpra and their various annotation tiers. The list might grow into its own thing but it might remain a sub-component for inclusion in other lists._
+_This list specifically focuses on web services for interacting with linguistic data. By this we mean the business sense of service, rather than the computational sense of a service running on a server machine. Obviously though these business services might also run computational services which might be specialized applications for dealing with linguistic data. By interacting we mean the collaborative (multi human user) co-creation or co-development of corpra and their various annotation tiers. The list might grow into its own thing but it might remain a sub-component for inclusion in other lists._
 ###Additions
 _If you know of something, but wonder if it really fits, open an issue and lets look at it._
 
 ##Services with linguistic data
+* [LanguageDepot](http://public.languagedepot.org/) - Service Provider: _SIL International_ - a sync service for use with FLEx and WeSay products. It allows multiple people to access the same lexicon data.
+* [LanguageForge](https://languageforge.org/) - Service Provider: _SIL International_ - a browser based lexicon builder, useable by multiple users. **Currently in Beta.**
 * [LingSync](https://www.lingsync.org/) - Service Provider: _McGill University and Concordia University_ - A tool for creating and maintaining a Shared database... _"of what?"_ (seems mostly like phrases)
-* [Webonary](http://www.webonary.org/) - Service Provider: _SIL International_ - a place to easily "publish" and browse a lexicon produced via FLEx.
-* [LanguageDepot](http://public.languagedepot.org/) - Service Provider: _SIL International_ - a sync service for use with FLEx and WeSay products. It allows multible people to access the same lexicon data.
-* [LanguageForge](https://languageforge.org/) - Service Provider: _SIL International_ - a browser based lexicon builder, useable by multible users. **Currently in Beta.**
+* PELDA (unknown URL; provider contacted) - Service Provider: _University of Washington Bothell and University of Montana_ - attempts to do phoneme extraction and transcription from audio corpora. **Currently in Beta.**
 * [TypeCraft](http://typecraft.org/tc2wiki/Main_Page) - Service Provider: _Norwegian University of Science and Technology, LingLab_ - A MediaWiki based service allowing annotation and multi language glossing of texts.
-* PELDA (unknown URL; provider contacted) - Service Provider: _University of Washington Bothell and University of Montana_ - attempts to do phoneme extraction and trascritpion from audio corpora. **Currently in Beta.**
+* [Webonary](http://www.webonary.org/) - Service Provider: _SIL International_ - a place to easily "publish" and browse a lexicon produced via FLEx.
 
 ##Services with meta-language data
-* [LL-MAP](http://www.llmap.org) - Service Provider: _LinguistList_ - A tool for looking at the geographical dispersion of language users. Users can provide their own data as well as look at geo-aligned previously claimed data in the form of published maps. **Service is currently not fuctional.** Former provider was [Institute for Geospatial Research & Education](http://igre.emich.edu/igre/gisresearch/international/ll_map) at [Eastern Michigan University](http://www.emich.edu/) (EMU was also the former host of LinguistList)
+* [LL-MAP](http://www.llmap.org) - Service Provider: _LinguistList_ - A tool for looking at the geographical dispersion of language users. Users can provide their own data as well as look at geo-aligned previously claimed data in the form of published maps. **Service is currently not functional.** Former provider was [Institute for Geospatial Research & Education](http://igre.emich.edu/igre/gisresearch/international/ll_map) at [Eastern Michigan University](http://www.emich.edu/) (EMU was also the former host of LinguistList)
 
 ##Services which provide "archiving"
-* [Mukurtu](http://www.mukurtu.org/) - Hosted "archive" meaning material content access via appropiate restrictions.
+* [Mukurtu](http://www.mukurtu.org/) - Hosted "archive" meaning material content access via appropriate restrictions.
 * [DuraSpace](http://www.duraspace.org/) - particularly [DuraCloud](http://www.duracloud.org/) specializes in hosting small institutional repositories.
 
 ##REST API - Data conversion type services
