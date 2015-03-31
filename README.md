@@ -237,6 +237,7 @@ _These publishers have significant portions of their businesses which focus on a
 * [Lincom GmbH](http://www.lincom-shop.eu/)
 * [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
 * [MIT Press](http://mitpress.mit.edu/)
+* [Mittal Publications](http://www.mittalbooks.com/) - broad publisher publishing resources on [North-East India & Himalayan Studies](http://www.mittalbooks.com/categories/North%252dEast-India-%26-Himalayan-Studies/)
 * [Mouton De Gruyter](http://www.degruyter.com/)
 * [Multilingual Matters / Channel View Publications](http://www.multilingual-matters.com/)
 * [Oxford University Press](https://global.oup.com/academic/?cc=us&lang=en&)
