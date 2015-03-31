@@ -226,14 +226,14 @@ _These publishers have significant portions of their businesses which focus on a
 * [Cambridge University Press](http://us.cambridge.org)
 * [Cascadilla Proceedings Project](http://lingref.com/) - A publisher that publishes proceedings from linguistics conferences.
 * [Classiques Garnier](http://www.classiques-garnier.com/) - offers to universities, public, private and research libraries online access to databases in the fields of literature and the humanities.
-* [Dr. Ludwig Reichert Verlag]
+* [Dr. Ludwig Reichert Verlag](http://reichert-verlag.de/en/)
 * [Edinburgh University Press](http://www.euppublishing.com) - see [keyword for linguistics](http://www.euppublishing.com/page/LanguageLinguistics)
 * [ELSEVIER](http://www.elsevier.com/)
 * [Equinox Publishing Ltd.]
 * [European Language Resources Association (ELRA)](http://portal.elda.org/en/)
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * [John Benjamins](http://www.benjamins.com/)
-* [Karger
+* [Karger]
 * [Lincom GmbH](http://www.lincom-shop.eu/)
 * [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
 * [MIT Press](http://mitpress.mit.edu/)
