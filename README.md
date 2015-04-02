@@ -19,8 +19,8 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * **Products**: _Specific things created and are usually sold. In this context products are typically software related, but may not always be software. Some products may be access to information, or subscription packages._
 * **Descriptive metadata**: _Metadata schemas which describe resources._
 * **Catalogues**:
-* **Aggregators and index(ing) products**:
-* **Digital Tools**: Software to complete a specialized task
+* **Aggregators and index(ing) products**: _Products designed to be subscribed to by institutions, which grant access to a wide variety of resources like journals. Often these products contain actual resources where catalogues don't._
+* **Digital Tools**: _Software to complete a specialized task_
 
 ##Resources for audio curation and digitization
 
