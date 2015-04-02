@@ -126,6 +126,23 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * [Live Lingua Project](http://www.livelingua.com/peace-corps-language-courses.php) - The Peace Corp Language Learning Materials Archive
 * [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1) - This is a project which hosts language materials created with the purpose of teaching languages indigenous to North America
 
+##Resources for Language and Music
+_This section focuses on ethnomusicology and langauge-music interactions._
+####Sites
+* http://www.musicendangerment.com 
+
+####Journals
+* Chicago studies in ethnomusicology
+* Ethnomusicology
+* Ethnomusicology Review
+* Journal of the International Folk Music Council
+* Journal of the Musical Arts in Africa
+* [Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)
+
+
+####Archives and Special Collections
+* Archive of World Music at Harvard University
+* Indiana University Archives of Traditional Music
 
 ##Resources for digital archiving - Software Tools
 ####Digital repositories
