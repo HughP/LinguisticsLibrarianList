@@ -739,27 +739,45 @@ UK context: [RIOXX](http://scholarlycommunications.jiscinvolve.org/wp/2015/03/05
 ###General 
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
 
+###Catalogues vs. content
+Just to be clear some datasets or content can be catalogued and that catalogue data can be OpenData. However, the actual data the catalogue references can be restricted behind content control mechanism.
+
+###OpenAccess
+OpenAccess means that the content can be obtained without cost but what one can legaly do with the content after accessing it may be restricted in some way. Read more about OpenAccess here: http://en.wikipedia.org/wiki/Open_access
+
 ###OpenAccess and OpenData requirements
 _This section needs some clean up still_
-SPARC: http://www.spark.arl.org/about
-Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
-OER: http://www.sparc.arl.org/theme/open-educational-resources
-Open Data: http://www.sparc.arl.org/resources/open-data
-Lexicons: http://www.sparc.arl.org/resources/publishing/case-studies/leme
-Data Management Templates: http://scholcomm.columbia.edu/data-management/data-management-plan-templates/
-http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
-Datatags: http://datatags.org/
+* SPARC: http://www.spark.arl.org/about
+* Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
+* OER: http://www.sparc.arl.org/theme/open-educational-resources
+* Open Data: http://www.sparc.arl.org/resources/open-data
+* Lexicons: http://www.sparc.arl.org/resources/publishing/case-studies/leme
+* Data Management Templates: http://scholcomm.columbia.edu/data-management/data-management-plan-templates/
+* http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
+* Datatags: http://datatags.org/
 
 ###Cultural Appropriation
-_As of 19. March 2015 the only licenses we have found to address the issue of Cultural appropriation is the **Free Culture License**. They have some interesting points which may be of concern to various minority language using communities. However, for the sake of context their points will not be conveyed here._
+_As of 19. March 2015 the only licenses we have found to address the issue of Cultural appropriation is the **Free Culture License**. They have some interesting points which may be of concern to various minority language using communities. However, for the sake of context their points will not be conveyed in this repo._
 * http://freeculture.org/about/license/
 
 ###Creative Commons
-[Creative commons](http://creativecommons.org/) is an organization which helps promote open accesss and distribution to creative works using existing legal methods. It [provides serveral standard licenses](https://creativecommons.org/choose/) which IP rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
+[Creative commons](http://creativecommons.org/) is a non-profit organization which helps promote open accesss and distribution to creative works using existing legal methods. It [provides serveral standard licenses](https://creativecommons.org/choose/) which Intelectual Property (IP) rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases (consider reading the following: [[1](http://opendatahandbook.org/en/appendices/what-legal-ip-rights-are-there-in-databases.html)] [[2](https://wiki.creativecommons.org/Data)] [[3](http://www.osmfoundation.org/wiki/License/We_Are_Changing_The_License)]. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
 
 ###OpenData
 _OpenData_ requires separate licenses (than creative commons licenses) which legally attempt to provide the same freedoms to data users as creative commons licenses do for other kinds of works. More information is availible from the Open Data Commons. The Open Data Commons is a project of the [Open Knowledge Foundation](https://okfn.org/).
+There are several organizations which are involved in the propgation and licensing of open data. Some of the highprofile ones are: the [Open Knowledge Foundation](https://okfn.org/), and the [Open Data Foundation](http://www.opendatafoundation.org/)
+
+Some more resources on Open Data:
 * http://opendatacommons.org/licenses/
+* [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/)
+* https://okfn.org/opendata/
+* http://www.opendatafoundation.org/
+* http://en.wikipedia.org/wiki/Open_data
+* http://opendatahandbook.org/en/what-is-open-data/
+* http://opendatahandbook.org/en/what-is-open-data/
+
+####Sources for OpenData
+* [U.S. Goverment data](http://www.data.gov/) ([keyword "linguistic"](http://catalog.data.gov/dataset?q=linguistic&sort=score+desc%2C+name+asc&ext_location=&ext_bbox=&ext_prev_extent=-177.890625%2C-30.751277776257812%2C-23.203125%2C72.81607371878991))
 
 ###Science Commons
 For open license type issues including publications and data in the sciences consider the following communities and resources:
@@ -768,6 +786,7 @@ For open license type issues including publications and data in the sciences con
 * http://creativecommons.org/science
 
 ## License
+_This repo is licensed under the following terms._
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
