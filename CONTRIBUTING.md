@@ -6,6 +6,7 @@ We love pull requests. Here's a quick guide.
 * [Edit the text](https://github.com/HughP/LinguisticsLibrarianList/edit/master/README.md)
 * Add yourself as a contributor in the [README](https://github.com/HughP/LinguisticsLibrarianList/edit/master/README.md) if you want to be listed as a contributor.
 * [Submit a pull request][pr].
+* If you need to lear more about using `git` then check out what one librarian says: http://www.bohyunkim.net/blog/archives/2518
 
 [pr]: https://github.com/HughP/LinguisticsLibrarianList/compare/
 
