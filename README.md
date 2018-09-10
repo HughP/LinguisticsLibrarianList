@@ -1,12 +1,12 @@
 # Linguistics Librarian List
 This is an _Awesome List_ (which is a Github culture thing) for resources for Linguistics Librarians and Archivists dealing with _Language Artifacts_. The list is designed to be shared and contributed to.
 
-####Purpose
+#### Purpose
 There is no association for linguistic librarians, and no open association for archivists or institutional repository managers who focus on language materials. This list exists as a resource from _linguists_ to _linguistics librarians_ to help facilitate better communication. **But** it is also a list for _archivists of language materials_ to be able to connect with archivists of other kinds of materials who deal with collections in similar mediums. **And** it is a list from _linguistics librarians_ to other _linguistics librarians_ to facilitate the exchange of knowledge about useful resources and tools to the _linguistics librarian_.
 
 _What is a resource?_ Not a language resource (like a grammar or a description of a specific language). This list avoids resources about specific languages. Rather for the purposes of this list, resources might be portals, or organizations, products (like special catalogues) or journals, mailing lists, re-occurring conferences, metadata specifications, file management tools,  etc. Which _linguistics librarians_, _special collections librarians_, and _archivists focused on language materials_ will find helpful in the course of their work (which for linguistic librarians would include directing linguists and language researchers to appropriate resources). For language archivists, who are often trained as linguists first and then land responsibilities as archivists, this list is designed to be a bridge and an introduction from one academic discipline (like linguistics) to be able to find out what is "normal" or "best practice" in another academic discipline (like preservation studies). Depending on the nature of the resource, some resources might be listed in multiple sections.
 
-####Additions
+#### Additions
 Please organize additions by section first and then alphabetical, within a section. Fork the list. Make additions in your copy then send a pull request for additions to be added to the main list. Contributors must agree with [the license statement](https://github.com/HughP/LinguisticsLibrarianList/blob/master/README.md#license). Please add your name to the list of contributors and read the [ReadMe about contributing](CONTRIBUTING.md).  _Still got questions?_ create an issue.
 
 Sections are marked with ## in [markdown code](https://help.github.com/articles/markdown-basics/) and contain a variety of sub-sections (marked with ####). The introduction of sub-sections is flexible and new ones are added as are needed for clarity (not every section will have all sub-sections). Some of these sub-sections include:
@@ -22,9 +22,9 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * **Aggregators and index(ing) products**: _Products designed to be subscribed to by institutions, which grant access to a wide variety of resources like journals. Often these products contain actual resources where catalogues don't._
 * **Digital Tools**: _Software to complete a specialized task_
 
-##Resources for audio curation and digitization
+## Resources for audio curation and digitization
 
-####Networks
+#### Networks
 * [ARSClist](http://www.arsc-audio.org/arsclist.html) - The mailing list of the Association for Recorded Sound Collections. Hosted by the USA library of congress. Audio professionals of various kinds are on this list, including professional digitizers, professionals working in the recording industry, and archivists and audio collection curators for radio broadcasters.
 * [Audio Engineering Society](http://www.aes.org/) - This society provides scientific documentation for digital audio, in addition to several relevant specifications for digitizing audio and maintaining metadata. [Citations are maintained in a separate list](/AESCitations.md).
 * [Audio Preservation](http://cool.conservation-us.org/bytopic/audio/) - COoL PARS Recording and Photographic Media Committee of the American Library Association
@@ -32,26 +32,26 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
 
-####Best practices
+#### Best practices
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - A collaborative project between Indiana University Archives of Traditional Music and the Archive of World Music at Harvard University. This project has produced the "golden template" (Best Practices) for audio digitization of world heritage collections. They have published helpful manuals like the following: http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf
 * [FADGI Embedding Guidelines](http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html) - Federal Agencies Digitization Guidelines Initiative recommendations about embedded metadata.
 
-####Services
+#### Services
 * [The Audio Archive](http://www.theaudioarchive.com/) - A business providing a service of professional audio digitization
 * [AVPreserve](http://www.avpreserve.com/) - AVPreserve is a media and information management consulting firm. We partner with organizations that create or collect media content to help develop and implement resources that allow them to better manage, use, distribute, and preserve their media assets and metadata. They also produce a variety of open source tools.
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
 
-####Journals
+#### Journals
 * [ARSC Journal](http://www.arsc-audio.org/journal.html)
 * [The Journal of the Audio Engineering Society](http://www.aes.org/journal/)
 
-####Digital tools
+#### Digital tools
 * [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
 * [XCorrSound](http://xcorrsound.openpreservation.org/) - Suite of tools for automated quality assurance of audio migration processes. Get the code on github https://github.com/openpreserve/scape-xcorrsound
 
-##Resources for video curation and digitization
+## Resources for video curation and digitization
 
-####Networks
+#### Networks
 * [AMIA-L](http://www.amianet.org/participate/listserv.php) - Mailing list for Association of Moving Image Archivists
 * [AMIA](http://www.amianet.org/about/mission) - Association of Moving Image Archivists
 * [Ethnodoc](http://www.ethnodoc.org/)
@@ -59,80 +59,80 @@ Sections are marked with ## in [markdown code](https://help.github.com/articles/
 * [IASA](http://www.iasa-web.org/) - International Association of Sound and Audiovisual Archives
 * [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
 
-####Best practices
+#### Best practices
 * [FADGI Audio Visual Working Group](http://www.digitizationguidelines.gov/audio-visual/) - Federal Agencies Digitization Guidelines Initiative resources for audio-visual resource handling.
 * [AMIA](http://saa.archivists.org/store/amia-compendium-of-moving-image-cataloging-practice/325/) - Cataloging practice guidelines
 
-####Services
+#### Services
 
-####Journals
-#####Archival
+#### Journals
+##### Archival
 * [IASA Journal](http://www.iasa-web.org/iasa-journal) - Journal of the International Association of Sound and Audiovisual Archives
 * [The Moving Image](http://www.amianet.org/resources-and-publications/publications/journal) - The Journal of the Association of Moving Image Archivists
 
-#####Content creation
+##### Content creation
 * [Visual Anthropology Review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-7458) - ISSN: 1548-7458
 * [Visual Anthropology](http://www.tandfonline.com/toc/gvan20/current) - ISSN: 0894-9468
 * [Anthrovision](http://anthrovision.revues.org/)
 * [Visual Ethnography](http://www.vejournal.org/?journal=vejournal) - ISSN: 2281-1605
 * [Journal of Video Ethnography](http://www.videoethno.com/)
 
-##Resources for still image curation and digitization
+## Resources for still image curation and digitization
 
-####Networks
+#### Networks
 * [Society for Visual Anthropology](http://societyforvisualanthropology.org/)
 * [Ethnodoc](http://www.visualanthropology.net/) - Visualanthropology.net
 * [Ethnodoc](http://www.ethnodoc.org/)
 * [American Society of Media Photographers](https://asmp.org/) - Society of professional photographers
 
-####Best practices
+#### Best practices
 * [FADGI Still Image Working Group](http://www.digitizationguidelines.gov/still-image/) - Federal Agencies Digitization Guidelines Initiative resources for still image resource handling.
 * [dpbestflow.org](http://dpbestflow.org/) - Digital Photography Best Practices and Workflow project. Creates guidelines for refined production workflows, archiving methods, and best practices for digital photography based on a variety of capture methods and intended image use.
 
-####Services
-####Journals
+#### Services
+#### Journals
 
-#####Archival
+##### Archival
 
-#####Content creation
+##### Content creation
 * [Visual Anthropology Review](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-7458) - ISSN: 1548-7458
 * [Visual Anthropology](http://www.tandfonline.com/toc/gvan20/current) - ISSN: 0894-9468
 * [Anthrovision](http://anthrovision.revues.org/)
 * [Visual Ethnography](http://www.vejournal.org/?journal=vejournal) - ISSN: 2281-1605
 
-##Resources for linguistic cartography and maps
+## Resources for linguistic cartography and maps
 
-####Projects and products
+#### Projects and products
 * [Ethnologue Maps](http://www.ethnologue.com/browse/maps) - Maps may be purchased from the Ethnologue, some may be visible online. Link to an index of maps.
 * [Langscape](http://ling.umd.edu/~colin/wordpress/?page_id=110) - A project for geobrowsing language data from the University of Maryland. It uses the WLMS product as it's base layer as of 2014.
 * [LinguistList Maps](http://llmap.org/) - _llmap.org_ was and is a LinguistList project for displaying existing maps in a large variety of publications as layers in a geobrowser. This project like many others was disrupted in the LinguistList transition from Michigan to hosting the LinguistList in Indiana. Contact the current hosts for further details.
-* [UNESCO Atlas of the World's Languages in Danger](http://www.unesco.org/languages-atlas/) 
+* [UNESCO Atlas of the World's Languages in Danger](http://www.unesco.org/languages-atlas/)
 * [World Language Mapping System](http://www.worldgeodatasets.com/language/) - _World Language Mapping System_ Is a collaborative data publication between SIL International and [GMI (Global Mapping International)](http://www.gmi.org/). Most of the shape files from the Ethnologue's maps are included. They are usually updated following the most recent update of the Ethnologue.
 * [World Language Phyla/Family Mapping](http://www.worldgeodatasets.com/language/huffman/?pathinfo=products/gis/wlms/sample-maps/huffman/) - A set of global maps using the WLMS product but with language family arrangement by Dr. Stephen Huffman.
 
-####Journals
+#### Journals
 * Dialectologia et Geolinguistica
 * International Journal of Geographical Information Science (sometimes has articles about people group and language mapping)
 
 
-##Resources for educational materials (such as curriculum) for minority languages
-####Descriptive metadata
+## Resources for educational materials (such as curriculum) for minority languages
+#### Descriptive metadata
 * [LRMI](http://www.lrmi.net/) - _Learning Resource Metadata Initiative_ is a learning materials metadata specification which is part of [schema.org](http://schema.org/) and [under the stewardship of DCMI](http://www.lrmi.net/lrmi-transfers-stewardship). The 1.1 version of the spec can be seen on the LRMI Website: [http://www.lrmi.net/the-specification](http://www.lrmi.net/the-specification) or on the [DCMI website](http://dublincore.org/dcx/lrmi-terms/1.1/): Mailing list [is managed via google groups](https://groups.google.com/forum/#!forum/lrmi).
 * [LTI](http://www.imsglobal.org/toolsinteroperability2.cfm) Learning Tools Interoperability is a technical standard which allows LMS systems to communicate learning results to other tools.
 
-####Curriculum catalogues
+#### Curriculum catalogues
 * [Language Learning Media](http://128.32.161.126/mip/ll/blc_ll_query.html) - Berkeley Language Center Catalogue of Language Learning Media
 * [Language Teaching Resources](http://128.32.161.126/mip/p/index.html) - Berkeley Language Center Catalogue of Language Teaching Resources
 * [Live Lingua Project](http://www.livelingua.com/peace-corps-language-courses.php) - The Peace Corp Language Learning Materials Archive
 * [UCLA Language Materials Project](http://www.lmp.ucla.edu/regions.aspx?rid=1) - This is a project which hosts language materials created with the purpose of teaching languages indigenous to North America
 * [Center for Open Educational Resources and Language Learning](http://www.coerll.utexas.edu/coerll/)
 
-##Resources for Language and Music
+## Resources for Language and Music
 _This section focuses on ethnomusicology and language-music interactions._
-####Sites
-* http://www.musicendangerment.com 
+#### Sites
+* http://www.musicendangerment.com
 
-####Journals
+#### Journals
 * Chicago studies in ethnomusicology
 * Ethnomusicology
 * Ethnomusicology Review
@@ -141,17 +141,17 @@ _This section focuses on ethnomusicology and language-music interactions._
 * [Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)
 
 
-####Archives and Special Collections
+#### Archives and Special Collections
 * Archive of World Music at Harvard University
 * Indiana University Archives of Traditional Music
 
-##Resources for Computational Linguistics
+## Resources for Computational Linguistics
 * [ACM (Association for Computing Machinery) Digital Library](http://dl.acm.org/) - Updated frequently. Includes the full text of all ACM (Association for Computing Machinery) publications, including journals, special interest group (SIG) publications, magazines, newsletters, transactions and proceedings. A list of included full-text publications can be found here. Covers all areas of computer science including computer technology, artificial intelligence, human-computer interaction (HCI), usability, network technologies, the IT profession, programming languages, operating systems, distributed systems, data management, data mining, big data, web design, web services, social media, and all areas of information and systems security. Also includes the full text of 10 additional magazines published by cooperative partners. Indexing (not full text) is also included for an additional 1000 computer science-related publications from other non-ACM publishers such as Kluwer, Springer-Verlag, Elsevier, John Wiley, and IGI Global. _Targeted as a library resource_
 * [Open Source resources for Low (or under) Resourced Languages](https://github.com/LowResourceLanguages) - Github based AWESOME LIST of Open Source code.
 * IEEE Xplore
 
-##Resources for digital archiving - Software Tools
-####Digital repositories
+## Resources for digital archiving - Software Tools
+#### Digital repositories
 _These tools are designed to do digital object and associated metadata management._
 
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
@@ -162,7 +162,7 @@ _These tools are designed to do digital object and associated metadata managemen
 * [Nabu](https://github.com/nabu-catalog/nabu) - nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items.
 
 
-####Journal management systems
+#### Journal management systems
 _There are currently no known journal management systems which have an indexing function which allows for the OLAC metadata to be recorded per article submission._ - Some further investigation is needed to determine if these CMS options create MARC records or if other kinds of indexing is still needed.
 * [OJS](https://pkp.sfu.ca/ojs/) - Open Journal System
 * [BePress](http://www.bepress.com/)
@@ -170,7 +170,7 @@ _There are currently no known journal management systems which have an indexing 
 * Cambridge Journals appears to also be a custom content management system.
 * Some journals like _[Pacific Review of Ethnomusicology](http://ethnomusicologyreview.ucla.edu)_ use WordPress. It is imagined that some journals also might try and use Drupal.
 
-####Digital showcases or display environments
+#### Digital showcases or display environments
 _These tools are designed to easily present visual interactions with archived collections. They are not designed to manage content and associated metadata in the same way that *Digital Repository* software does, rather *display environments* pull data from repositories and create interactions with it._
 * [Drupal](https://www.drupal.org/) - This is a very powerful general purpose CMS.
 * [EOPAS](https://github.com/eopas/eopas) - Ethnographic E-Research Online Presentation System (EOPAS) for Interlinear Text ([see it in action](http://www.eopas.org/))
@@ -181,7 +181,7 @@ _These tools are designed to easily present visual interactions with archived co
 * [SCIENTIfic coLLaborative Archive](https://github.com/scientilla/scientilla) Peer distributed network of metadata. Find out more on http://www.scientilla.net/
 * [Wordpress](https://www.wordpress.org/) - This is a very usable medium powered CMS (when compared with the datatypes, and ease of usability that Drupal offers).
 
-####Submission managers
+#### Submission managers
 * [Arbil](https://tla.mpi.nl/tools/tla-tools/arbil/)
 * [CMDI Maker](http://cmdi-maker.uni-koeln.de/)
 * [ExSite9](https://github.com/IntersectAustralia/exsite9) is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository.
@@ -190,30 +190,30 @@ _These tools are designed to easily present visual interactions with archived co
 * Bag-It - http://www.dcc.ac.uk/resources/external/bagit-library
 * RAMP - created as a client side submission manager for submissions to DSpace.
 
-####File Management
+#### File Management
 _Tools for working with files._
 * [Fixity](http://www.avpreserve.com/tools/fixity/) - Open source utility for the documentation and regular review of stored files. Runs on Windows and OS X. Produced by AVPreserve.
 
-####Embedding metadata
+#### Embedding metadata
 _Enriching files according to the best practices outlined in the [Embedded Metadata Manifesto](http://www.embeddedmetadata.org/)_
 * [BWF MetaEdit](http://sourceforge.net/projects/bwfmetaedit/) - Open source tool that supports embedding, validating, and exporting of metadata in Broadcast WAVE Format (BWF) files. Open source code [hosted on sourceforge](http://sourceforge.net/projects/bwfmetaedit/). Runs on Windows, Linux, and OS X.
 
-####Extracting Metadata
+#### Extracting Metadata
 * Metadata Extraction Tool: http://sourceforge.net/projects/meta-extractor/
 * DCEditor http://sourceforge.net/projects/dceditor/
 * Xena http://xena.sourceforge.net/
 
-####Working with DCMI Metadata
+#### Working with DCMI Metadata
 * [Tools Group](http://dublincore.org/groups/tools/)
 
-###Open Community Software groups
+### Open Community Software groups
 * [Intersect Australia](http://www.intersect.org.au/)
 * [USA Library of congress](http://www.digitalpreservation.gov/tools/) - 44 tools indexed.
 * [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page)
 
-##Resources for finding resources
+## Resources for finding resources
 _These resources are sometimes only aggregators, but other times may also be full content. These resources are usually not digital repositories._
-####Aggregators and index(ing) products
+#### Aggregators and index(ing) products
 
 * [Academic Search Premier](http://www.ebscohost.com/ACADEMIC/academic-search-premier) - EBSCOhost index product _Targeted as a library resource_
 * [ACM (Association for Computing Machinery) Digital Library](http://dl.acm.org/) - Updated frequently. Includes the full text of all ACM (Association for Computing Machinery) publications, including journals, special interest group (SIG) publications, magazines, newsletters, transactions and proceedings. A list of included full-text publications can be found here. Covers all areas of computer science including computer technology, artificial intelligence, human-computer interaction (HCI), usability, network technologies, the IT profession, programming languages, operating systems, distributed systems, data management, data mining, big data, web design, web services, social media, and all areas of information and systems security. Also includes the full text of 10 additional magazines published by cooperative partners. Indexing (not full text) is also included for an additional 1000 computer science-related publications from other non-ACM publishers such as Kluwer, Springer-Verlag, Elsevier, John Wiley, and IGI Global. _Targeted as a library resource_
@@ -241,19 +241,19 @@ _These resources are sometimes only aggregators, but other times may also be ful
 * PsycINFO - an aggregated data access product focusing on psychology issues. Many Language-Mind resources are accessible via this product coverage is: 1887 - present (EBSCO) _Targeted as a library resource_
 * Web of Science (Thomson Reuters Web of Knowledge) - _Targeted as a library resource_
 
-####Special purpose repositories
+#### Special purpose repositories
 * [ROA](http://roa.rutgers.edu/) - _Rutgers Optimality Archive_ is a special collection of PDFs (mostly preprint) which is dedicated to the advancement of Optimality Theory in linguistics. **Not Aggregated in OLAC**
 * [The speech accent archive](http://accent.gmu.edu/) - The speech accent archive uniformly presents a large set of speech samples from a variety of language backgrounds. Native and non-native speakers of English read the same paragraph and are carefully transcribed. The archive is used by people who wish to compare and analyze the accents of different English speakers. **Not Aggregated in OLAC**
 
-####Institutional repositories and special collections
+#### Institutional repositories and special collections
 
 
-##Publishers 
+## Publishers
 _These publishers have significant portions of their businesses which focus on academic resources about linguistics, anthropology, language documentation, [ethnobotany](http://en.wikipedia.org/wiki/Ethnobotany), [ethnomusicology](http://en.wikipedia.org/wiki/Ethnomusicology), ethno-arts, and minority language resources._
-#####Other lists
+##### Other lists
 * http://linguistlist.org/pubs/publishers.cfm
 
-#####This list
+##### This list
 * [Acta Universitatis Upsaliensis]
 * [Asia-Pacific Linguistics](http://pacling.anu.edu.au/index.html)
 * [Bloomsbury Linguistics (formerly Continuum Linguistics)](http://www.bloomsbury.com) - see [keyword for linguistics](http://www.bloomsbury.com/uk/search?q=linguistics&Gid=1)
@@ -270,7 +270,7 @@ _These publishers have significant portions of their businesses which focus on a
 * [Gallaudet University Press](http://gupress.gallaudet.edu/) - A publisher focusing on sign language studies.
 * [John Benjamins](http://www.benjamins.com/)
 * [Karger]
-* [Language Science Press](http://langsci-press.org/series) - An open access press for language and linguistic content. 
+* [Language Science Press](http://langsci-press.org/series) - An open access press for language and linguistic content.
 * [Lincom GmbH](http://www.lincom-shop.eu/)
 * [Linguistic Sociey of America](http://www.linguisticsociety.org/lsa-publications/elanguage)
 * [MIT Press](http://mitpress.mit.edu/)
@@ -291,7 +291,7 @@ _These publishers have significant portions of their businesses which focus on a
 * [University of Regina Press](http://www.uofrpress.ca/publications/Blackfoot-StoriesMemoir-3-First-Nations-Language-Readers) - Publishes various language learning materials and texts in North American languages.
 * [Wiley Blackwell](http://www.wiley.com/WileyCDA/Brand/id-35.html)
 
-##Major content delivery networks
+## Major content delivery networks
 _These networks often are in the business of granting a variety of access types to academic audiences. Sometimes they are publishers, sometimes they are "archives" with access products provided to via subscription to institutions._
 * HathiTrust: http://catalog.hathitrust.org/Record/004279552
 * JSTOR
@@ -301,17 +301,17 @@ _These networks often are in the business of granting a variety of access types 
 * OCLC http://www.oclc.org/en-US/partners-for-libraries.html
 * [IngentaConnect](http://www.ingentaconnect.com/) - a wear house product for publishers to sell their journals. (So it is targeting institutional subscriptions.)
 
-##Journals
+## Journals
 _The study of language and linguistics covers a wide range of disciplines and sub-disciplines. Therefore a wide variety of journals may be listed as being "relevant to linguistics". A rough guess estimate is that there are about 2500 serials which are relevant to the study of language, linguistics, and culture (anthropology).  The best way to introduce these journals would be to include a title, a topical area, a link to the publisher's mast head (or the archive's presentation) and an ISSN if they have one (so far examples have only included journal titles, links, and ISSN or E-ISSN)._ **Note: Some links are to AJOL index pages rather than associational mast head websites. These should be corrected.**
-#####Other lists of journals
+##### Other lists of journals
 _Other lists of linguistics journals include_:
 * [Index of linguistics journals at De Gruyter](http://www.degruyter.com/browse?authorCount=5&pageSize=10&searchTitles=true&sort=datedescending&t1=LS&type_0=journals)
 * http://linguistlist.org/pubs/journals/browse-journals.cfm
 * http://linguistlist.org/pubs/journals/
-* List of linguistics journals on [Wikipedia](http://en.wikipedia.org/wiki/List_of_linguistics_journals). Subsumed on 19. March 2015 
+* List of linguistics journals on [Wikipedia](http://en.wikipedia.org/wiki/List_of_linguistics_journals). Subsumed on 19. March 2015
 * http://www.nehu.ac.in/Announcements/CASJournals/Linguistics.pdf
 
-#####This list
+##### This list
 * African Arts
 * African language review
 * African Language Studies
@@ -418,7 +418,7 @@ _Other lists of linguistics journals include_:
 * Gesture
 * [Ghana Journal of Linguistics](http://www.ajol.info/index.php/gjl/) - ISSN: 2026-6596
 * [GIALens](http://www.gial.edu/gialens/)
-* [Global Chinese](http://www.degruyter.com/view/j/glochi) - ISSN: 2199-4382 
+* [Global Chinese](http://www.degruyter.com/view/j/glochi) - ISSN: 2199-4382
 * Glot International
 * GLOW Newsletter
 * GMU Working Papers in Linguistics
@@ -475,7 +475,7 @@ _Other lists of linguistics journals include_:
 * Journal of Language and Social Psychology
 * [Journal of language contact]
 * [Journal of Language Teaching and Research](http://ojs.academypublisher.com/index.php/jltr) - ISSN: 1798-4769
-* [Journal of Latin Linguistics](http://www.degruyter.com/view/j/joll) - ISSN: 2194-8747 
+* [Journal of Latin Linguistics](http://www.degruyter.com/view/j/joll) - ISSN: 2194-8747
 * Journal of Linguistic and Intercultural Education
 * Journal of linguistic anthropology
 * [Journal of Linguistics](http://journals.cambridge.org/action/displayJournal?jid=LIN) - ISSN: 0022-2267
@@ -552,7 +552,7 @@ _Other lists of linguistics journals include_:
 * Lexicography
 * [Lexikos](http://www.ajol.info/index.php/lex) - ISSN: 2224-0039
 * LINCOM studies in Asian linguistics
-* [Linguistics](http://www.degruyter.com/view/j/ling) - ISSN: 
+* [Linguistics](http://www.degruyter.com/view/j/ling) - ISSN:
 * [Lingua](http://www.journals.elsevier.com/lingua/) - ISSN: 0024-3841
 * [Linguaculture](http://www.degruyter.com/view/j/lincu) - ISSN: 2067-9696
 * Linguistic Inquiry
@@ -622,7 +622,7 @@ _Other lists of linguistics journals include_:
 * Scottish Gaelic Studies
 * Second Language Research
 * [Second Language Studies](http://www.hawaii.edu/sls/research/publications/sls-papers/) - Bi-annual publication of the Department of Second Language Studies at the University of Hawaii Mānoa.
-* [Semantics and Pragmatics](http://www.linguisticsociety.org/content/semantics-and-pragmatics) - 
+* [Semantics and Pragmatics](http://www.linguisticsociety.org/content/semantics-and-pragmatics) -
 * [Semiotica](http://www.degruyter.com/view/j/semi) - ISSN: 1613-3692
 * Sign Language & Linguistics
 * [Sign Language Studies](http://gupress.gallaudet.edu/SLS.html) - ISSN:
@@ -645,8 +645,8 @@ _Other lists of linguistics journals include_:
 * [Studies in English Language Teaching](http://www.scholink.org/ojs/index.php/selt)  - ISSN: 2372-9740
 * [Studies in Language](https://benjamins.com/#catalog/journals/sl/main) - ISSN: 0378–4177
 * Studies in Linguistics
-* [Studies in Philippine Languages and Cultures] 
-* [Studies in Philippine Linguistics] - ISSN: 
+* [Studies in Philippine Languages and Cultures]
+* [Studies in Philippine Linguistics] - ISSN:
 * [Studies in Second Language Acquisition](http://journals.cambridge.org/action/displayJournal?jid=SLA) - ISSN: 1470-1545
 * [Studies in the Languages of Island Melanesia](http://pacling.anu.edu.au/materials/Studies-in-the-Languages-of-Island-Melanesia.htm)
 * Studies in the Linguistic Sciences
@@ -667,7 +667,7 @@ _Other lists of linguistics journals include_:
 * The Philippine Journal of Science
 * The Slavic and East European Journal
 * [Theoretical Linguistics](http://www.degruyter.com/view/j/thli) - ISSN: 1613-4060
-* [Toronto Working Papers in Linguistics] - ISSN: 
+* [Toronto Working Papers in Linguistics] - ISSN:
 * UCLA Occasional Papers in Linguistics
 * UCLA Working Papers in Linguistics
 * UCLA Working Papers in Phonetics
@@ -694,26 +694,26 @@ _Other lists of linguistics journals include_:
 * [Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft](http://www.degruyter.com/view/j/zrs) - ISSN: 1867-1705
 * [Zeitschrift für Sprachwissenschaft](http://www.degruyter.com/view/j/zfsw) - ISSN: 1613-3706
 
-##Organizations of interests in the archiving and preservation sphere (for linguistics and technical focus)
+## Organizations of interests in the archiving and preservation sphere (for linguistics and technical focus)
 *  [British Library](http://www.bl.uk/) - The British Library in England and the UK serves a similar function as organizations like the Smithsonian or the Library of Congress in the United States. They have a keen interest in helping other organizations to preserve or digitize their collections, as evidenced through their grant programs. They also have experience in digitizing their own collections.
-*  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner. 
+*  [Federal Agencies Digitization Guidelines Initiative](http://www.digitizationguidelines.gov/) - a collaborative effort by federal agencies (of the United States of America) formed as a group in 2007 to define common guidelines, methods, and practices to digitize historical content in a sustainable manner.
 *  [JISC](http://www.jisc.ac.uk/) - (Formerly the Joint Information Systems Committee.) A registered UK charity which champions the use of digital technologies in UK education and research. They have an active role in preservation and metadata developments. [See more on Wikipedia](http://en.wikipedia.org/wiki/Jisc).
-*  [Library of Congress (U.S.)](http://www.loc.gov/standards/) - The Library of Congress has extensive audio collections and is involved in many digitization projects. They host the ARSC mailing list which is a network of audio library curators and digitization specialists.  They also host several resources on standards for archiving and describing collections. 
+*  [Library of Congress (U.S.)](http://www.loc.gov/standards/) - The Library of Congress has extensive audio collections and is involved in many digitization projects. They host the ARSC mailing list which is a network of audio library curators and digitization specialists.  They also host several resources on standards for archiving and describing collections.
 * [CDP](http://www.cdpheritage.org) - Colorado Digitization Program Digital Audio Working Group, CDP started out with the name Colorado Digitization Project, then in 2004 became the Collaborative Digitization Program. It is a collaborative effort between institutions (universities and museums) in the Western United States to support their mandates to provide access to and preserve their audio collections.
 * [European Broadcast Union](http://www3.ebu.ch/home) - The EBU sets standards for data interoperability within the EU for data used within their domain (radio, audio transmissions, etc). As such they are a key stakeholder and decision maker for digital audio formats.
 * [PARADISEC](http://www.paradisec.org.au/) - Pacific And Regional Archive for Digital Sources in Endangered Cultures, is an archive in Australia, and tied to the national university network which has pioneered digital access to media (especially audio). Much of their efforts have been lead by Nicholas Thieberger.
 * [SIL International](http://www.sil.org) - SIL International is a language development organization with over 80 years of history in linguistics, language development work, and Bible Translation. SIL staff over the years has worked with thousands of languages. SIL runs the Language and Culture Archive which among other things has large collections of audio materials in many languages.
 * [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/) - Is an audio preservation through digitization company. It was founded in a cooperative venture between Indiana University Bloomington and Harvard University. They are considered the leaders in audio digitization for historical collections.
 
-##General archival organizations of interest
+## General archival organizations of interest
 * [Foundation of the American Institute for Conservation](http://www.conservation-us.org/)
 * [Society of American Archivists](http://www2.archivists.org/)
 * [Conservation OnLine](http://cool.conservation-us.org/)
 
-##Metadata standards and schemas
+## Metadata standards and schemas
 _This section highlights some metadata standards and schemas in common use and why they are important for the linguistics librarian, the special collections librarian and language archivist dealing with language artifacts, and the linguist._
 * DCMI - This is the premier most widely accepted and used metadata standard for metadata exchange between organizations. The standard defines broad categories and allows for some variation within those categories.
-* [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly perceived as one or two of two things: 
+* [OLAC](http://www.language-archives.org/tools.html) - OLAC is commonly perceived as one or two of two things:
   1. a metadata standard/schema for interoperability of linguistic resource discovery metadata
   2. a web location for doing a search for materials in participation archives
 
@@ -735,17 +735,17 @@ _Not sure where to put this one_
 * http://core.ac.uk/intro/api
 UK context: [RIOXX](http://scholarlycommunications.jiscinvolve.org/wp/2015/03/05/rioxx-2-0-plugin-for-eprints-ready-to-install/) and RCUK.
 
-##Intellectual property, rights, and access
-###General 
+## Intellectual property, rights, and access
+### General
 * [Copyright for Educators & Librarians](https://www.coursera.org/course/cfel): Online course via coursera.org
 
-###Catalogues vs. content
+### Catalogues vs. content
 Just to be clear some datasets or content can be catalogued and that catalogue data can be OpenData. However, the actual data the catalogue references can be restricted behind content control mechanism.
 
-###OpenAccess
+### OpenAccess
 OpenAccess means that the content can be obtained without cost but what one can legaly do with the content after accessing it may be restricted in some way. Read more about OpenAccess here: http://en.wikipedia.org/wiki/Open_access
 
-###OpenAccess and OpenData requirements
+### OpenAccess and OpenData requirements
 _This section needs some clean up still_
 * SPARC: http://www.spark.arl.org/about
 * Funder's requirements: http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/
@@ -756,14 +756,14 @@ _This section needs some clean up still_
 * http://scholcomm.columbia.edu/open-access/nih-public-access-policy/
 * Datatags: http://datatags.org/
 
-###Cultural Appropriation
+### Cultural Appropriation
 _As of 19. March 2015 the only licenses we have found to address the issue of Cultural appropriation is the **Free Culture License**. They have some interesting points which may be of concern to various minority language using communities. However, for the sake of context their points will not be conveyed in this repo._
 * http://freeculture.org/about/license/
 
-###Creative Commons
+### Creative Commons
 [Creative commons](http://creativecommons.org/) is a non-profit organization which helps promote open accesss and distribution to creative works using existing legal methods. It [provides serveral standard licenses](https://creativecommons.org/choose/) which Intelectual Property (IP) rights holders may use to give legal freedoms to users of their works. Generally Creative Commons licenses are insuficent for datasets and databases (consider reading the following: [[1](http://opendatahandbook.org/en/appendices/what-legal-ip-rights-are-there-in-databases.html)] [[2](https://wiki.creativecommons.org/Data)] [[3](http://www.osmfoundation.org/wiki/License/We_Are_Changing_The_License)]. This is where _OpenData_ requires separate licenses which legally attempt to provide the same freedoms to data users.
 
-###OpenData
+### OpenData
 _OpenData_ requires separate licenses (than creative commons licenses) which legally attempt to provide the same freedoms to data users as creative commons licenses do for other kinds of works. More information is availible from the Open Data Commons. The Open Data Commons is a project of the [Open Knowledge Foundation](https://okfn.org/).
 There are several organizations which are involved in the propgation and licensing of open data. Some of the highprofile ones are: the [Open Knowledge Foundation](https://okfn.org/), and the [Open Data Foundation](http://www.opendatafoundation.org/)
 
@@ -776,10 +776,10 @@ Some more resources on Open Data:
 * http://opendatahandbook.org/en/what-is-open-data/
 * http://opendatahandbook.org/en/what-is-open-data/
 
-####Sources for OpenData
+#### Sources for OpenData
 * [U.S. Goverment data](http://www.data.gov/) ([keyword "linguistic"](http://catalog.data.gov/dataset?q=linguistic&sort=score+desc%2C+name+asc&ext_location=&ext_bbox=&ext_prev_extent=-177.890625%2C-30.751277776257812%2C-23.203125%2C72.81607371878991))
 
-###Science Commons
+### Science Commons
 For open license type issues including publications and data in the sciences consider the following communities and resources:
 * http://sciencecommons.org/about/
   * http://sciencecommons.org/projects/publishing/
@@ -790,5 +790,5 @@ _This repo is licensed under the following terms._
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Copyright 2015 by Hugh Paterson III and contributors. Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-####Contributors
+#### Contributors
 * Hugh Paterson III
